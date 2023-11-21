@@ -1,0 +1,7 @@
+.dropdown:hover>.dropdown-menu{
+  display: block;
+}
+
+.navbar {
+  background-color: rgb(18, 8, 82);
+}
