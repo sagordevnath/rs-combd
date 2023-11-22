@@ -92,7 +92,7 @@ const Sfp = () => {
                 <input className="input input-group input-group-sm mb-1" type="number" />
               </div>
             </div>
-            <div className="row border-btm-2">
+            <div className="row">
               <div className="col-5 offset-1">
                 <h5>Total Non Current Assets</h5>
               </div>
@@ -106,6 +106,7 @@ const Sfp = () => {
                 <p className="text-end fw-bold">2,623,554</p>
               </div>
             </div>
+            <div className=" border-btm-2"></div>
           </div>
         </div>
         <div className="container">
@@ -209,7 +210,7 @@ const Sfp = () => {
           </div>
           <div className="border-btm-2"></div>
                 <div className="row">
-              <div className="col-6">
+              <div className="col-6 -2">
                 <h5>Total Assets</h5>
               </div>
               <div className="col-2">
@@ -222,14 +223,15 @@ const Sfp = () => {
                 <p className="text-end  fw-bold">2,623,554</p>
               </div>
             </div>
-            <div className="border-btm-2 w-full"></div>
+            <div className="border-btm-3"></div>
         </div>
         <div className="container">
           <div className="row">
-            <div className="col border-btm text start mb-1 mt-4">
+            <div className="col text start mb-1 mt-4">
               <h5>EQUITY AND LIABILITIES</h5>
             </div>
           </div>
+          <div className=" border-btm-2"></div>
           <div className="row">
             <div className="col mb-2">
               <h6>Shareholders' equity</h6>
@@ -254,32 +256,32 @@ const Sfp = () => {
               </div>
             </div>
             <div className="row">
-              <div className="col-5 offset-1 border-btm d-flex justify-content-between">
+              <div className="col-5 offset-1 border-btm-2 d-flex justify-content-between">
                 <p>Retained earnings</p>
                 <p>15</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">314,923</p>
+                <p className="text-end border-btm-2">314,923</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">314,923</p>
+                <p className="text-end border-btm-2">314,923</p>
               </div>
-              <div className="col-2 d-flex flex-row-reverse border-btm">
-                <input className="input input-group input-group-sm mb-1" type="number" />
+              <div className="col-2 d-flex flex-row-reverse border-btm-2">
+                <input className="input input-group input-group-sm mb-1 border-btm-2" type="number" />
               </div>
             </div>
             <div className="row border-btm-2">
-              <div className="col-5 offset-1">
+              <div className="col-5 offset-1 border-btm-2">
                 <h5>Total equity</h5>
               </div>
               <div className="col-2">
-                <p className="text-end fw-bold">7,576,078</p>
+                <p className="text-end fw-bold border-btm-2">7,576,078</p>
               </div>
               <div className="col-2">
-                <p className="text-end fw-bold">2,623,554</p>
+                <p className="text-end fw-bold border-btm-2">2,623,554</p>
               </div>
               <div className="col-2">
-                <p className="text-end fw-bold">2,623,554</p>
+                <p className="text-end fw-bold border-btm-2">2,623,554</p>
               </div>
             </div>
           </div>
@@ -324,32 +326,32 @@ const Sfp = () => {
               </div>
             </div>
             <div className="row">
-              <div className="col-5 offset-1 d-flex justify-content-between border-btm-2">
+              <div className="col-5 offset-1 d-flex justify-content-between border-btm">
                 <p>Financial liabilities with related parties</p>
                 <p>18</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm-2">(314,923)</p>
+                <p className="text-end border-btm">(314,923)</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm-2">(314,923)</p>
+                <p className="text-end border-btm">(314,923)</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse border-btm">
                 <input className="input input-group input-group-sm mb-1" type="number" />
               </div>
             </div>            
-            <div className="row border-btm-2">
-              <div className="col-5 offset-1">
+            <div className="row">
+              <div className="col-5 offset-1 border-btm-2">
                 <h5>Total non-current liabilities</h5>
               </div>
               <div className="col-2">
-                <p className="text-end fw-bold">7,576,078</p>
+                <p className="text-end fw-bold border-btm-2">7,576,078</p>
               </div>
               <div className="col-2">
-                <p className="text-end fw-bold">2,623,554</p>
+                <p className="text-end fw-bold border-btm-2">2,623,554</p>
               </div>
               <div className="col-2">
-                <p className="text-end fw-bold">2,623,554</p>
+                <p className="text-end fw-bold border-btm-2">2,623,554</p>
               </div>
             </div>
           </div>
@@ -409,15 +411,15 @@ const Sfp = () => {
               </div>
             </div>            
             <div className="row">
-              <div className="col-5 offset-1 d-flex justify-content-between border-btm-2">
+              <div className="col-5 offset-1 d-flex justify-content-between border-btm">
                 <p>Provision for expense</p>
                 <p>22</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm-2">(314,923)</p>
+                <p className="text-end border-btm">(314,923)</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm-2">(314,923)</p>
+                <p className="text-end border-btm">(314,923)</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse border-btm">
                 <input className="input input-group input-group-sm mb-1" type="number" />
@@ -437,7 +439,7 @@ const Sfp = () => {
                 <p className="text-end border-btm-2 fw-bold">2,623,554</p>
               </div>
             </div>
-            <div className="row border-btm-2">
+            <div className="row">
               <div className="col-5 offset-1">
                 <h5>Total liabilities</h5>
               </div>
@@ -451,7 +453,8 @@ const Sfp = () => {
                 <p className="text-end fw-bold">2,623,554</p>
               </div>
             </div>
-            <div className="row border-btm-2">
+            <div className=" border-btm-2"></div>
+            <div className="row">
               <div className="col-6">
                 <h5>Total equity and liabilities</h5>
               </div>
@@ -465,6 +468,7 @@ const Sfp = () => {
                 <p className="text-end  fw-bold">2,623,554</p>
               </div>
             </div>
+            <div className=" border-btm-3"></div>
             <p>Annexed notes form an integral parts of these Financial Statements.</p>
           </div>
         </div>

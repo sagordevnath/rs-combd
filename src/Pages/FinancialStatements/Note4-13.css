@@ -5,15 +5,18 @@ h1,h2,h3,h4,h5,h6,p{
     margin-bottom: 0;
 }
 .address{
-    border-bottom: 2px solid #000;
+    border-bottom: 3px solid #ffffff;
     padding: 2px 2px 2px 0;
 
 }
 .border-btm{
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #ffffff;
 }
 .border-btm-2{
-    border-bottom: 2px solid #000;
+    border-bottom: 2px solid #ffffff;
+}
+.border-btm-3{
+    border-bottom: 3px solid #ffffff;
 }
 .font-16{
     font-size: 16px;

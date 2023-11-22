@@ -26,23 +26,23 @@ const Pnl = () => {
                 <p className="text-start pb-1">For the year ended 30 June 2023</p>
               </div>
               <div className="col-6">
-                <p className="text-center border-btm pb-1">
+                <p className="text-center border-btm-2 pb-1">
                   In Bangladesh Taka
                 </p>
               </div>
             </div>
             <div className="row text-center">
               <div className="col-1 offset-5">
-                <p className="border-btm text-end">Notes</p>
+                <p className="border-btm-2 text-end">Notes</p>
               </div>
               <div className="col-2 ">
-                <p className="border-btm text-end">30 June 2023</p>
+                <p className="border-btm-2 text-end">30 June 2023</p>
               </div>
               <div className="col-2">
-                <p className="border-btm text-end">30 June 2022</p>
+                <p className="border-btm-2 text-end">30 June 2022</p>
               </div>
               <div className="col-2">
-                <p className="border-btm text-end">30 June 2021</p>
+                <p className="border-btm-2 text-end">30 June 2021</p>
               </div>
             </div>
           </div>
@@ -76,7 +76,7 @@ const Pnl = () => {
               <div className="col-2">
                 <p className="text-end border-btm-2">314,923</p>
               </div>
-              <div className="col-2 d-flex flex-row-reverse border-btm">
+              <div className="col-2 d-flex flex-row-reverse border-btm-2">
                 <input className="input input-group input-group-sm mb-1" type="text" />
               </div>
             </div>
@@ -124,7 +124,7 @@ const Pnl = () => {
               <div className="col-2">
                 <p className="text-end border-btm-2">(314,923)</p>
               </div>
-              <div className="col-2 d-flex flex-row-reverse border-btm">
+              <div className="col-2 d-flex flex-row-reverse border-btm-2">
                 <input className="input input-group input-group-sm mb-1" type="text" />
               </div>
             </div>
@@ -172,7 +172,7 @@ const Pnl = () => {
               <div className="col-2">
                 <p className="text-end border-btm-2">314,923</p>
               </div>
-              <div className="col-2 d-flex flex-row-reverse border-btm">
+              <div className="col-2 d-flex flex-row-reverse border-btm-2">
                 <input className="input input-group input-group-sm mb-1" type="text" />
               </div>
             </div>
@@ -210,7 +210,7 @@ const Pnl = () => {
                 <input className="input input-group input-group-sm mb-1" type="text" />
               </div>
             </div>   
-            <div className="border-btm"></div>         
+            <div className="border-btm-2"></div>         
             <div className="row">
               <div className="col-5 offset-1">
                 <h5>PROFIT FOR THE YEAR</h5>
@@ -225,7 +225,7 @@ const Pnl = () => {
                 <p className="text-end fw-bold">2,623,554</p>
               </div>
             </div>
-            <div className="border-btm-2"></div>
+            <div className="border-btm-3"></div>
           </div>
         </div>
         <div className="container">
@@ -245,7 +245,7 @@ const Pnl = () => {
                 <input className="input input-group input-group-sm mb-1" type="text" />
               </div>
             </div>   
-            <div className="border-btm"></div>         
+            <div className="border-btm-2"></div>         
             <div className="row">
               <div className="col-5 offset-1 bold">
                 <h6>TOTAL COMPREHENSIVE INCOME FOR THE YEAR</h6>
@@ -260,7 +260,7 @@ const Pnl = () => {
                 <p className="text-end fw-bold">2,623,554</p>
               </div>
             </div>
-            <div className="border-btm-2"></div>
+            <div className="border-btm-3"></div>
             <p>Annexed notes form an integral parts of these Financial Statements.</p>
           </div>
         </div>

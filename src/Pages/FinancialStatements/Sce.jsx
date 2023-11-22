@@ -20,19 +20,19 @@ const Sce = () => {
           <p>For the year ended 30 June 2023</p>
         </div>
         <div className="row pr-0">
-          <div className="col">
-            <p className="text-end pb-1">In Bangladesh Taka</p>
+          <div className="col-4 offset-8">
+            <p className="text-end pb-1 border-btm-2">In Bangladesh Taka</p>
           </div>
         </div>
-        <div className="row text-center">
+        <div className="row text-center mt-3">
           <div className="col-2 offset-6">
-            <p className="border border-dark">Share capital</p>
+            <p className="border border-light">Share capital</p>
           </div>
           <div className="col-2">
-            <p className="border border-dark">Retained Earnings</p>
+            <p className="border border-light">Retained Earnings</p>
           </div>
           <div className="col-2">
-            <p className="border border-dark">Total Equity</p>
+            <p className="border border-light">Total Equity</p>
           </div>
         </div>
         <div className="border-btm-2 my-3"></div>
@@ -78,9 +78,9 @@ const Sce = () => {
               <h6 className="text-end">400,000</h6>
             </div>
           </div>
-          <div className="border-btm col offset-1"></div>
+          <div className="border-btm-2 col offset-1"></div>
         </div>
-        <div className="container p-2 border-btm">
+        <div className="container p-2 border-btm-2">
           <div className="row">
             <div className="col-5 offset-1">
               <h6 className="bold">Balance at 01 July 2021 - restated</h6>
@@ -142,7 +142,7 @@ const Sce = () => {
             </div>
           </div>
         </div>
-        <div className="container p-2 border-btm">
+        <div className="container p-2">
           <div className="row">
             <div className="col-5 offset-1">
               <h6 className="bold">Balance at 01 July 2022</h6>
@@ -157,6 +157,7 @@ const Sce = () => {
               <h6 className="text-end">400,000</h6>
             </div>
           </div>
+          <div className="border-btm-3"></div>
           <div className="row">
             <div className="col-5 offset-1">
               <h6>Movement during the year</h6>
@@ -187,8 +188,9 @@ const Sce = () => {
               <h6 className="text-end">400,000</h6>
             </div>
           </div>
+          <div className="border-btm-2"></div>
         </div>
-        <div className="container p-2 border-btm-2">
+        <div className="container p-2 border-btm-3">
           <div className="row">
             <div className="col-5 offset-1">
               <h6>Balance at 30 June 2023</h6>
