@@ -40,15 +40,15 @@ const Note4To13 = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-1">
-                <p className="bold">4</p>
+                <p className="bold">4 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Property, plant and equipment</h5>
+                <h5 className="font-16">Property, plant and equipment</h5>
               </div>
             </div>
             <div className="row">
               <div className="col-7 offset-1">
-                <p>At cost</p>
+                <p>At cost (Annexure A)</p>
               </div>
               <div className="col-2">
                 <p className="text-end">2,938,477</p>
@@ -59,7 +59,7 @@ const Note4To13 = () => {
             </div>
             <div className="row">
               <div className="col-7 offset-1">
-                <p>Accumulated depreciation</p>
+                <p>Accumulated depreciation (Annexure A)</p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">(314,923)</p>
@@ -80,10 +80,10 @@ const Note4To13 = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-1">
-                <p className="bold">4.01</p>
+                <p className="bold">4.01 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Category of assets</h5>
+                <h5 className="font-16">Category of assets</h5>
               </div>
             </div>
             <div className="row">
@@ -144,10 +144,10 @@ const Note4To13 = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-1">
-                <p className="bold">5</p>
+                <p className="bold">5 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Intangible assets</h5>
+                <h5 className="font-16">Intangible assets</h5>
               </div>
             </div>
             <div className="row">
@@ -163,9 +163,7 @@ const Note4To13 = () => {
             </div>
             <div className="row">
               <div className="col-7 offset-1">
-                <p>
-                  Assets classified as held for sale or discontinued operation
-                </p>
+                <p>Accumulated amortization  (Annexure A)</p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">8,037,677</p>
@@ -186,10 +184,10 @@ const Note4To13 = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-1">
-                <p className="bold">6</p>
+                <p className="bold">6 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Inventories</h5>
+                <h5 className="font-16">Inventories</h5>
               </div>
             </div>
             <div className="row">
@@ -267,10 +265,10 @@ const Note4To13 = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-1">
-                <p className="bold">7</p>
+                <p className="bold">7 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Trade and other receivables</h5>
+                <h5 className="font-16">Trade and other receivables</h5>
               </div>
             </div>
             <div className="row">
@@ -329,10 +327,10 @@ const Note4To13 = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-1">
-                <p className="bold">8</p>
+                <p className="bold">8 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Advances, deposits and prepayments</h5>
+                <h5 className="font-16">Advances, deposits and prepayments</h5>
               </div>
             </div>
             <div className="row">
@@ -424,10 +422,10 @@ const Note4To13 = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-1">
-                <p className="bold">8.01</p>
+                <p className="bold">8.01 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Advance for VAT</h5>
+                <h5 className="font-16">Advance for VAT</h5>
               </div>
             </div>
             <div className="row">
@@ -486,10 +484,10 @@ const Note4To13 = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-1">
-                <p className="bold">9</p>
+                <p className="bold">9 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Investments in financial assets</h5>
+                <h5 className="font-16">Investments in financial assets</h5>
               </div>
             </div>
             <div className="row">
@@ -526,10 +524,10 @@ const Note4To13 = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-1">
-                <p className="bold">10</p>
+                <p className="bold">10 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Advance income tax</h5>
+                <h5 className="font-16">Advance income tax</h5>
               </div>
             </div>
             <div className="row">
@@ -643,10 +641,10 @@ const Note4To13 = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-1">
-                <p className="bold">11</p>
+                <p className="bold">11 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Cash and cash equivalents</h5>
+                <h5 className="font-16">Cash and cash equivalents</h5>
               </div>
             </div>
             <div className="row">
@@ -683,10 +681,10 @@ const Note4To13 = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-1">
-                <p className="bold">11.01</p>
+                <p className="bold font-16">11.01 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Cash at bank(s)</h5>
+                <h5 className="font-16">Cash at bank(s)</h5>
               </div>
             </div>
             <div className="row">
@@ -778,20 +776,20 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">12</p>
+                <p className="bold">12 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Share capital</h5>
+                <h5 className="font-16">Share capital</h5>
               </div>
             </div>
           </div>
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">12.01</p>
+                <p className="bold">12.01 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Authorized capital</h5>
+                <h5 className="font-16">Authorized capital</h5>
               </div>
             </div>
             <div className="row">
@@ -809,12 +807,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">12.02</p>
+                <p className="bold">12.02 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">
-                  .Issued, subscribed, called up and paid up capital
-                </h5>
+                <h5 className="font-16">Issued, subscribed, called up and paid up capital</h5>
               </div>
             </div>
             <div className="row">
@@ -922,10 +918,10 @@ const Note4To13 = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-1">
-                <p className="bold">13</p>
+                <p className="bold">13 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Calls-in-arrear</h5>
+                <h5 className="font-16">Calls-in-arrear</h5>
               </div>
             </div>
             <div className="row">
@@ -974,10 +970,10 @@ const Note4To13 = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-1">
-                <p className="bold">14</p>
+                <p className="bold">14 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Share money deposit</h5>
+                <h5 className="font-16">Share money deposit</h5>
               </div>
             </div>
             <div className="row">
@@ -1009,10 +1005,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">15</p>
+                <p className="bold">15 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Retained earnings</h5>
+                <h5 className="font-16">Retained earnings</h5>
               </div>
             </div>
             <div className="row">
@@ -1071,10 +1067,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">16</p>
+                <p className="bold">16 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Borrowings from bank</h5>
+                <h5 className="font-16">Borrowings from bank</h5>
               </div>
             </div>
             <div className="row">
@@ -1154,12 +1150,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">16.01</p>
+                <p className="bold">16.01 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">
-                  .Assets pledged as security against borrowings
-                </h5>
+                <h5 className="font-16">Assets pledged as security against borrowings</h5>
               </div>
             </div>
             <div className="row">
@@ -1231,10 +1225,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">17</p>
+                <p className="bold">17 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Deferred tax liabilities</h5>
+                <h5 className="font-16">Deferred tax liabilities</h5>
               </div>
             </div>
             <div className="row">
@@ -1271,12 +1265,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">17.01</p>
+                <p className="bold">17.01 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">
-                  .Deferred tax liability on taxable{" "}
-                  <span className="border-btm">
+                <h5 className="font-16">Deferred tax liability on taxable{" "}<span className="border-btm">
                     /(deductible) cumulative temporary differences
                   </span>
                 </h5>
@@ -1338,13 +1330,13 @@ const Note4To13 = () => {
               </div>
             </div>
             <div className="row mb-3">
-              <div className="col-9 offset-1 border-btm pl-0">
+              <div className="col-9 offset-1 border-btm-2 pl-0">
                 <p>
                   Deferred tax liability on cumulative temporary diff. up to 30
                   June 2023
                 </p>
               </div>
-              <div className="col-2 pl-0 border-btm">
+              <div className="col-2 pl-0 border-btm-2">
                 <p className="text-end fw-bold">7,576,078</p>
               </div>
             </div>
@@ -1404,13 +1396,13 @@ const Note4To13 = () => {
               </div>
             </div>
             <div className="row mb-3">
-              <div className="col-9 offset-1 border-btm pl-0">
+              <div className="col-9 offset-1 border-btm-2 pl-0">
                 <p>
                   Deferred tax liability on cumulative temporary diff. up to 30
                   June 2023
                 </p>
               </div>
-              <div className="col-2 pl-0 border-btm">
+              <div className="col-2 pl-0 border-btm-2">
                 <p className="text-end fw-bold">7,576,078</p>
               </div>
             </div>
@@ -1418,12 +1410,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">18</p>
+                <p className="bold">18 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">
-                  .Financial liabilities with related parties
-                </h5>
+                <h5 className="font-16">Financial liabilities with related parties</h5>
               </div>
             </div>
             <div className="row">
@@ -1449,10 +1439,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">19</p>
+                <p className="bold">19 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Advance received from customers</h5>
+                <h5 className="font-16">Advance received from customers</h5>
               </div>
             </div>
             <div className="row">
@@ -1489,10 +1479,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">20</p>
+                <p className="bold">20 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Trade and other payables</h5>
+                <h5 className="font-16">Trade and other payables</h5>
               </div>
             </div>
             <div className="row">
@@ -1551,10 +1541,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">21</p>
+                <p className="bold">21 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Current tax payable</h5>
+                <h5 className="font-16">Current tax payable</h5>
               </div>
             </div>
             <div className="row">
@@ -1602,10 +1592,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">22</p>
+                <p className="bold">22 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Provision for expense</h5>
+                <h5 className="font-16">Provision for expense</h5>
               </div>
             </div>
             <div className="row">
@@ -1653,10 +1643,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">23</p>
+                <p className="bold">23 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Revenue</h5>
+                <h5 className="font-16">Revenue</h5>
               </div>
             </div>
             <div className="row">
@@ -1748,10 +1738,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">24</p>
+                <p className="bold">24 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Cost of sales</h5>
+                <h5 className="font-16">Cost of sales</h5>
               </div>
             </div>
             <div className="row">
@@ -1818,10 +1808,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">24.01</p>
+                <p className="bold">24.01 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Cost of production</h5>
+                <h5 className="font-16">Cost of production</h5>
               </div>
             </div>
             <div className="row">
@@ -1858,18 +1848,18 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">24.02</p>
+                <p className="bold">24.02 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Materials used in production</h5>
+                <h5 className="font-16">Materials used in production</h5>
               </div>
             </div>
             <div className="row">
               <div className="col-2 offset-4">
-                <p className="border-btm text-center">Raw </p>
+                <p className="border-btm text-center">Raw Materials</p>
               </div>
               <div className="col-2">
-                <p className="border-btm text-center">Packing</p>
+                <p className="border-btm text-center">Packing Materials</p>
               </div>
             </div>
             <div className="row">
@@ -1958,10 +1948,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">24.03</p>
+                <p className="bold">24.03 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Production overhead</h5>
+                <h5 className="font-16">Production overhead</h5>
               </div>
             </div>
             <div className="row mb-4">
@@ -2121,12 +2111,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">24.04</p>
+                <p className="bold">24.04 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">
-                  .Production supplies and spare parts used
-                </h5>
+                <h5 className="font-16">Production supplies and spare parts used</h5>
               </div>
             </div>
             <div className="row">
@@ -2174,10 +2162,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">25</p>
+                <p className="bold">25 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Administrative expense</h5>
+                <h5 className="font-16">Administrative expense</h5>
               </div>
             </div>
             <div className="row">
@@ -2201,29 +2189,7 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">380,000</p>
               </div>
-            </div>
-            <div className="row">
-              <div className="col-7 offset-1">
-                <p>Rent and utilities</p>
-              </div>
-              <div className="col-2">
-                <p className="text-end">380,000</p>
-              </div>
-              <div className="col-2">
-                <p className="text-end">380,000</p>
-              </div>
-            </div>
-            <div className="row">
-              <div className="col-7 offset-1">
-                <p>Rent and utilities</p>
-              </div>
-              <div className="col-2">
-                <p className="text-end">380,000</p>
-              </div>
-              <div className="col-2">
-                <p className="text-end">380,000</p>
-              </div>
-            </div>
+            </div>           
             <div className="row">
               <div className="col-7 offset-1">
                 <p>Telephone, internet and mobile expenses</p>
@@ -2357,10 +2323,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">25.01</p>
+                <p className="bold">25.01 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Loss on sale of assets</h5>
+                <h5 className="font-16">Loss on sale of assets</h5>
               </div>
             </div>
             <div className="row">
@@ -2451,10 +2417,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">26</p>
+                <p className="bold">26 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Distribution costs</h5>
+                <h5 className="font-16">Distribution costs</h5>
               </div>
             </div>
             <div className="row">
@@ -2502,10 +2468,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">27</p>
+                <p className="bold">27 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Other income</h5>
+                <h5 className="font-16">Other income</h5>
               </div>
             </div>
             <div className="row">
@@ -2542,10 +2508,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">28</p>
+                <p className="bold">28 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Finance costs</h5>
+                <h5 className="font-16">Finance costs</h5>
               </div>
             </div>
             <div className="row">
@@ -2593,10 +2559,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">29</p>
+                <p className="bold">29 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Income tax expense</h5>
+                <h5 className="font-16">Income tax expense</h5>
               </div>
             </div>
             <div className="row">
@@ -2633,10 +2599,10 @@ const Note4To13 = () => {
           <div className="single-note margin-btm-30">
             <div className="row">
               <div className="col-1">
-                <p className="bold">29.01</p>
+                <p className="bold">29.01 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">.Current tax for the year</h5>
+                <h5 className="font-16">Current tax for the year</h5>
               </div>
             </div>
             <div className="row">
@@ -2714,6 +2680,7 @@ const Note4To13 = () => {
         </div>
       </div>
     </div>
+
   );
 };
 

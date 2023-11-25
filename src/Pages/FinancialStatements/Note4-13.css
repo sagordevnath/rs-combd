@@ -41,3 +41,15 @@ h1,h2,h3,h4,h5,h6,p {padding: 3px;}
 h6 {
     font-size: 14px;
 }
+
+.background {
+    background-color: rgb(68, 68, 168);
+}
+.about {
+    background-image: url(../../Assets/images/blog/1.jpeg);
+}
+.blog {
+    height: 500px;
+    width: 100%;
+    background-color: aquamarine;
+}
