@@ -5,3 +5,55 @@
 .navbar {
   background-color: rgb(18, 8, 82);
 }
+.dropdown-menu ul {
+  list-style: none;
+  padding: 0;
+}
+.dropdown-menu.show {
+  display: flex;
+}
+.dropdown-menu li:first-child a {
+  font-weight: bold;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  color: #ffd500;
+  
+}
+.dropdown-menu li a:hover {
+  background-color: aquamarine;
+  color: black;
+  font-style: italic;
+}
+.dropdown-menu li .dropdown-item {
+  color: rgb(255, 255, 255);
+  font-size: 1em;
+  padding: 0.5em 1em;
+}
+.dropdown-menu {
+  border: none;
+  border-radius: 0;
+  padding: 0.7em;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  background-image: url(../../assets//images//menu/menu.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}
+@media only screen and (min-width: 992px) {
+  .dropdown:hover .dropdown-menu {
+    display: flex;
+  }
+  .dropdown-menu.show {
+    display: flex;
+  }
+}
+.navbar-dark .navbar-nav a.nav-link {
+  color: #ffffff;
+  font-size: 1.1em;
+}
+@media only screen and (max-width: 992px) {
+  .dropdown:hover .dropdown-menu {
+    max-height: 350px;
+    overflow-y: scroll;
+  }
+}

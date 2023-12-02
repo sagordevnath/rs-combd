@@ -3,7 +3,7 @@ import { NavLink, Outlet } from 'react-router-dom';
 
 const FinancialStatements = () => {
     return (
-        <div className='row position-relative'>      
+        <div className='row position-relative h-100 d-flex'>      
       <div className='col-lg-2 sticky-top'>
         <ul className='text-warning text-start'>
           {/* <li><NavLink to='/financialStatements/report'>Report</NavLink></li> */}
@@ -18,7 +18,9 @@ const FinancialStatements = () => {
         </ul>
       </div>
       <div className='col-lg-9 ms-2'>
-        <Outlet></Outlet>
+        <Outlet>
+        </Outlet>
+          <h1 className='text-center'>Welcome to Financial statement</h1>
       </div>
     </div>
     );

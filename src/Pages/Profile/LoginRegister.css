@@ -1,0 +1,76 @@
+.section-padding{
+    padding: 80px 0;
+}
+.white-box{
+    box-shadow: 0 0 10px silver;
+    padding: 30px;
+}
+.white-box h4{
+    margin-bottom: 15px;
+}
+input:focus, textarea:focus, button:focus{
+    outline: none;
+}
+input, textarea{
+    background-color: whitesmoke;
+    border: none;
+    padding: 15px;
+}
+.contact-form input, textarea{
+    width: 100%;
+    margin-bottom: 15px;
+}
+.submit input {
+    width: auto;
+    margin: 0;
+    padding: 10px 30px;
+    background-color: skyblue;
+    color: white;
+    border-radius: 5px;
+}
+.contact-form textarea{
+    height: 150px;
+    resize: none;
+}
+.colored-box{
+    background-color: skyblue;
+    padding: 30px;
+    color: white;
+    min-height: 480px;
+    box-shadow: 0 0 10px silver
+}
+.colored-box a{
+    color: white;
+}
+.contact-info{
+    position: relative;
+    padding-left: 40px;
+    margin-bottom: 20px;
+}
+.contact-info i.fas{
+    position: absolute;
+    top: 3px;
+    left: 0;
+    font-size: 20px;
+}
+.white-box h4, .colored-box h4{
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.social-icon a{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    color: black;
+    background-color: white;
+    border-radius: 50%;
+    line-height: 40px;
+    margin-right: 10px;
+    box-shadow: 0 0 5px silver;
+    transition: .3s;
+}
+.social-icon a:hover{
+    color: skyblue;
+    box-shadow: none;
+}

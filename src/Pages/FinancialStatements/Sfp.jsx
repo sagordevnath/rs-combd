@@ -74,7 +74,10 @@ const Sfp = () => {
                 <p className="text-end">2,938,477</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse">
-                <input className="input-group input-group-sm mb-1 input" type="number" />
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
               </div>
             </div>
             <div className="row">
@@ -86,10 +89,13 @@ const Sfp = () => {
                 <p className="text-end border-btm">314,923</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">314,923</p>
+                <p className="text-end border-btm margin-btm-2">314,923</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse border-btm">
-                <input className="input input-group input-group-sm mb-1" type="number" />
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
               </div>
             </div>
             <div className="row">
@@ -130,7 +136,10 @@ const Sfp = () => {
                 <p className="text-end">2,938,477</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse">
-                <input className="input input-group input-group-sm mb-1" type="number" />
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
               </div>
             </div>
             <div className="row">
@@ -145,7 +154,10 @@ const Sfp = () => {
                 <p className="text-end">(314,923)</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse">
-                <input className="input input-group input-group-sm mb-1" type="number" />
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
               </div>
             </div>
             <div className="row">
@@ -160,7 +172,10 @@ const Sfp = () => {
                 <p className="text-end">(314,923)</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse">
-                <input className="input input-group input-group-sm mb-1" type="number" />
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
               </div>
             </div>
             <div className="row">
@@ -175,7 +190,10 @@ const Sfp = () => {
                 <p className="text-end">(314,923)</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse">
-                <input className="input input-group input-group-sm mb-1" type="number" />
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
               </div>
             </div>
             <div className="row">
@@ -190,7 +208,10 @@ const Sfp = () => {
                 <p className="text-end border-btm">(314,923)</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse border-btm">
-                <input className="input input-group input-group-sm mb-1" type="number" />
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
               </div>
             </div>
             <div className="row">
@@ -209,21 +230,21 @@ const Sfp = () => {
             </div>
           </div>
           <div className="border-btm-2"></div>
-                <div className="row">
-              <div className="col-6 -2">
-                <h5>Total Assets</h5>
-              </div>
-              <div className="col-2">
-                <p className="text-end  fw-bold">7,576,078</p>
-              </div>
-              <div className="col-2">
-                <p className="text-end  fw-bold">2,623,554</p>
-              </div>
-              <div className="col-2">
-                <p className="text-end  fw-bold">2,623,554</p>
-              </div>
+          <div className="row">
+            <div className="col-6 -2">
+              <h5>Total Assets</h5>
             </div>
-            <div className="border-btm-3"></div>
+            <div className="col-2">
+              <p className="text-end  fw-bold">7,576,078</p>
+            </div>
+            <div className="col-2">
+              <p className="text-end  fw-bold">2,623,554</p>
+            </div>
+            <div className="col-2">
+              <p className="text-end  fw-bold">2,623,554</p>
+            </div>
+          </div>
+          <div className="border-btm-3"></div>
         </div>
         <div className="container">
           <div className="row">
@@ -252,7 +273,10 @@ const Sfp = () => {
                 <p className="text-end">2,938,477</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse">
-                <input className="input input-group input-group-sm mb-1" type="number" />
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
               </div>
             </div>
             <div className="row">
@@ -267,7 +291,10 @@ const Sfp = () => {
                 <p className="text-end border-btm-2">314,923</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse border-btm-2">
-                <input className="input input-group input-group-sm mb-1 border-btm-2" type="number" />
+                <input
+                  className="input input-group input-group-sm mb-1 border-btm-2"
+                  type="number"
+                />
               </div>
             </div>
             <div className="row border-btm-2">
@@ -307,7 +334,10 @@ const Sfp = () => {
                 <p className="text-end">2,938,477</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse">
-                <input className="input input-group input-group-sm mb-1" type="number" />
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
               </div>
             </div>
             <div className="row">
@@ -322,7 +352,10 @@ const Sfp = () => {
                 <p className="text-end">(314,923)</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse">
-                <input className="input input-group input-group-sm mb-1" type="number" />
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
               </div>
             </div>
             <div className="row">
@@ -337,9 +370,12 @@ const Sfp = () => {
                 <p className="text-end border-btm">(314,923)</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse border-btm">
-                <input className="input input-group input-group-sm mb-1" type="number" />
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
               </div>
-            </div>            
+            </div>
             <div className="row">
               <div className="col-5 offset-1 border-btm-2">
                 <h5>Total non-current liabilities</h5>
@@ -377,7 +413,10 @@ const Sfp = () => {
                 <p className="text-end">2,938,477</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse">
-                <input className="input input-group input-group-sm mb-1" type="number" />
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
               </div>
             </div>
             <div className="row">
@@ -392,7 +431,10 @@ const Sfp = () => {
                 <p className="text-end">(314,923)</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse">
-                <input className="input input-group input-group-sm mb-1" type="number" />
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
               </div>
             </div>
             <div className="row">
@@ -407,9 +449,12 @@ const Sfp = () => {
                 <p className="text-end">(314,923)</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse">
-                <input className="input input-group input-group-sm mb-1" type="number" />
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
               </div>
-            </div>            
+            </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between border-btm">
                 <p>Provision for expense</p>
@@ -421,10 +466,13 @@ const Sfp = () => {
               <div className="col-2">
                 <p className="text-end border-btm">(314,923)</p>
               </div>
-              <div className="col-2 d-flex flex-row-reverse border-btm">
-                <input className="input input-group input-group-sm mb-1" type="number" />
+              <div className="col-2 border-btm">
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
               </div>
-            </div>            
+            </div>
             <div className="row">
               <div className="col-5 offset-1 border-btm-2">
                 <h5>Total current liabilities</h5>
@@ -469,7 +517,10 @@ const Sfp = () => {
               </div>
             </div>
             <div className=" border-btm-3"></div>
-            <p>Annexed notes form an integral parts of these Financial Statements.</p>
+            <p>
+              Annexed notes form an integral parts of these Financial
+              Statements.
+            </p>
           </div>
         </div>
       </div>

@@ -1,0 +1,80 @@
+.footer-area {
+  background-color: rgb(3, 101, 192);
+  padding: 60px 0;
+  font-size: 15px;
+}
+.footer-area, .footer-area a{
+  color: white
+}
+.footer-wid h3{
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+.social-link a{
+  display: inline-block;
+  font-size: 20px;
+  padding-right: 20px;
+  margin-top: 20px;
+}
+.footer-wid ul{
+  margin-bottom: 0;
+  padding: 0;
+  list-style: none;
+  line-height: 27px;
+}
+.contact-info{
+  position: relative;
+  padding-left: 30px;
+}
+.contact-info i.fas{
+  position: absolute;
+  left: 0;
+  top: 3px;
+}
+.footer-subscription-form h6{
+  text-transform: uppercase;
+  margin-top: 30px;
+}
+input[type="email"] {
+  border: none;
+  width: 73%;
+  padding: 10px;
+  color: #000;
+}
+input[type="submit"] {
+  color: rgb(3, 101, 192);
+  font-weight: 400;
+  border: none;
+  background: #fff;
+  padding: 10px;
+  width: 25%;
+}
+.footer-subscription-form form{
+  margin-bottom: 20px;
+}
+.footer-subscription-form p{
+  font-size: 90%;
+}
+.copyright-area{
+  padding: 20px 0;
+  background-color: whitesmoke;
+}
+.copyright-area ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.copyright-area li{
+  display: inline-block;
+}
+.copyright-area li:after{
+  content: ":";
+  padding-left: 10px;
+  padding-right: 7px;
+}
+.copyright-area li:last-child:after{
+  display: none;
+}
+.copyright-area, .copyright-area li a{
+  color: darkgray;
+}

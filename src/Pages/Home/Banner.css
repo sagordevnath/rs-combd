@@ -1,4 +1,8 @@
 
 .banner {
-    height: 500px;
+    height: 450px;
+    width: 100%;
+    background-image: url(../../assets/images/details/section-bg-1.jpg);
+    opacity: 10px;
+    margin-bottom: 20px;
 }

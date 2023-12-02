@@ -13,7 +13,7 @@ const Home = () => {
             <Blog />
             {/* <Industries /> */}
             {/* <Services /> */}
-            {/* <Details /> */}
+            <Details />
             {/* <About /> */}
         </div>
     );
