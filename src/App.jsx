@@ -55,7 +55,7 @@ function App() {
   
   return (
     <div className='text-white text-start'>
-      <Navbar className='mw-100' /> 
+      <Navbar className='' /> 
       <Routes>
         <Route path='/' element={<Home />}></Route>
         <Route path='/home' element={<Home />}></Route>

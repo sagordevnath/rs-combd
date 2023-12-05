@@ -4,6 +4,12 @@
 /* h1,h2,h3,h4,h5,h6,p{
     margin-bottom: 0;
 } */
+.outlet {
+    height: auto;
+}
+.side-nav {
+    height: 100vh;
+}
 .address{
     border-bottom: 3px solid #ffffff;
     padding: 2px 2px 2px 0;
@@ -36,11 +42,11 @@ h1,h2,h3,h4,h5,h6,p,input {
 }
 
 .input {
-    background-color: rgb(57, 18, 93);
-    width: 130px;
-    height: 16px;
+    background-color: rgb(179, 158, 199);
+    width: 120px;
+    height: 18px;
     border: none;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 .row {
     border-bottom: 10px;

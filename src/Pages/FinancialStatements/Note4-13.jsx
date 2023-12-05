@@ -195,10 +195,20 @@ const Note4To13 = () => {
                 <p>Finished goods</p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -206,10 +216,20 @@ const Note4To13 = () => {
                 <p>Work-in-progress</p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -217,10 +237,20 @@ const Note4To13 = () => {
                 <p>Raw and packing materials</p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -228,10 +258,20 @@ const Note4To13 = () => {
                 <p>Production supplies and spare parts</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">8,037,677</p>
+                <p className="text-end border-btm">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">8,037,677</p>
+                <p className="text-end border-btm">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -247,10 +287,20 @@ const Note4To13 = () => {
                 <p>Inventory-in-transit</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">8,037,677</p>
+                <p className="text-end border-btm">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">8,037,677</p>
+                <p className="text-end border-btm">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -276,10 +326,20 @@ const Note4To13 = () => {
                 <p>Trade receivable</p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -287,10 +347,20 @@ const Note4To13 = () => {
                 <p>Other receivables</p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -298,10 +368,20 @@ const Note4To13 = () => {
                 <p>Secured receivables (cheque on hand)</p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -309,10 +389,20 @@ const Note4To13 = () => {
                 <p>Provision for bad and doubtful debts</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">2,938,477</p>
+                <p className="text-end border-btm">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">2,938,477</p>
+                <p className="text-end border-btm">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -338,10 +428,20 @@ const Note4To13 = () => {
                 <p>Advance against purchases</p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -349,10 +449,20 @@ const Note4To13 = () => {
                 <p>Advance office rent</p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -360,10 +470,20 @@ const Note4To13 = () => {
                 <p>Advance for other expenses</p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                /> 
+                </p>
               </div>
             </div>
             <div className="row">
@@ -382,10 +502,20 @@ const Note4To13 = () => {
                 <p>Security deposit(s)</p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -393,10 +523,20 @@ const Note4To13 = () => {
                 <p>Bank guarantee (funded)</p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -404,10 +544,20 @@ const Note4To13 = () => {
                 <p>Prepaid expense</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">-</p>
+                <p className="text-end border-btm">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">-</p>
+                <p className="text-end border-btm">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -436,7 +586,12 @@ const Note4To13 = () => {
                 <p className="text-end">2,938,477</p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -444,10 +599,20 @@ const Note4To13 = () => {
                 <p>VAT on purchase</p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -455,10 +620,20 @@ const Note4To13 = () => {
                 <p>VAT deposited by challan</p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -466,10 +641,10 @@ const Note4To13 = () => {
                 <p>VAT payale on bills/invoiced (Note: 23)</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">8,037,677</p>
+                <p className="text-end border-btm">(8,037,677)</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">8,037,677</p>
+                <p className="text-end border-btm">(8,037,677)</p>
               </div>
             </div>
             <div className="row">
@@ -495,10 +670,20 @@ const Note4To13 = () => {
                 <p>Investment in FDR with SIBL</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -506,10 +691,20 @@ const Note4To13 = () => {
                 <p>Investment in share - At Teen Agro Ltd</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">8,037,677</p>
+                <p className="text-end border-btm">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">8,037,677</p>
+                <p className="text-end border-btm">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -538,7 +733,12 @@ const Note4To13 = () => {
                 <p className="text-end">2,938,477</p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -546,10 +746,20 @@ const Note4To13 = () => {
                 <p>TDS on export</p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -557,10 +767,20 @@ const Note4To13 = () => {
                 <p>TDS on cash incentive</p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -568,10 +788,20 @@ const Note4To13 = () => {
                 <p>TDS on bill received/invoice</p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -579,10 +809,20 @@ const Note4To13 = () => {
                 <p>TDS on imported goods</p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -590,10 +830,20 @@ const Note4To13 = () => {
                 <p>TDS on trade license</p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -601,10 +851,20 @@ const Note4To13 = () => {
                 <p>TDS on vehicle fitness (tax token)</p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -612,10 +872,20 @@ const Note4To13 = () => {
                 <p>Tax on bank interest income</p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">-</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -623,10 +893,10 @@ const Note4To13 = () => {
                 <p>Adjustment during the year (Note: 21)</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">-</p>
+                <p className="text-end border-btm">345,000</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">-</p>
+                <p className="text-end border-btm">345,000</p>
               </div>
             </div>
             <div className="row">
@@ -652,10 +922,20 @@ const Note4To13 = () => {
                 <p>Cash on hand</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -692,10 +972,20 @@ const Note4To13 = () => {
                 <p>AB Bank Limited A/C No.4015799703-000</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -703,10 +993,20 @@ const Note4To13 = () => {
                 <p>Shah Jalal Islamic Bank Limited AC No.401613100001120</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -714,10 +1014,20 @@ const Note4To13 = () => {
                 <p>Shah Jalal Islamic Bank Limited AC No.401613100001120</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -725,10 +1035,20 @@ const Note4To13 = () => {
                 <p>Shah Jalal Islamic Bank Limited AC No.401613100001120</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -736,10 +1056,20 @@ const Note4To13 = () => {
                 <p>Shah Jalal Islamic Bank Limited AC No.401613100001120</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -747,10 +1077,20 @@ const Note4To13 = () => {
                 <p>Shah Jalal Islamic Bank Limited AC No.400711100017043</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -758,10 +1098,20 @@ const Note4To13 = () => {
                 <p>Mercantile Bank Limited AC No.111411132975557</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">8,037,677</p>
+                <p className="text-end border-btm">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">8,037,677</p>
+                <p className="text-end border-btm">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -794,7 +1144,7 @@ const Note4To13 = () => {
             </div>
             <div className="row">
               <div className="col-7 offset-1">
-                <p>1000000 ordinary shares of Tk 100 each</p>
+                <p><input className="w-25 input-group-sm input" type="text" /> ordinary shares of Tk <input className="w-25 input-group-sm input" type="text" /> each</p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm-2 fw-bold">8,037,677</p>
@@ -837,7 +1187,12 @@ const Note4To13 = () => {
                 <p>Muhammad A Rouf</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
                 <p className="text-end">25%</p>
@@ -854,7 +1209,12 @@ const Note4To13 = () => {
                 <p>Syed Mahbub</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
                 <p className="text-end">25%</p>
@@ -871,7 +1231,12 @@ const Note4To13 = () => {
                 <p>Shams Iftakhar </p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
                 <p className="text-end">25%</p>
@@ -888,7 +1253,12 @@ const Note4To13 = () => {
                 <p>A Afruza Mahbub</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">8,037,677</p>
+                <p className="text-end border-btm">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">25%</p>
@@ -929,7 +1299,12 @@ const Note4To13 = () => {
                 <p>Muhammad A Rouf</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
                 <p className="text-end">25%</p>
@@ -946,7 +1321,12 @@ const Note4To13 = () => {
                 <p>Syed Mahbub</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
                 <p className="text-end">25%</p>
@@ -981,7 +1361,12 @@ const Note4To13 = () => {
                 <p>A Afruza Mahbub</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
                 <p className="text-end">25%</p>
@@ -1019,7 +1404,12 @@ const Note4To13 = () => {
                 <p className="text-end">2,938,477</p>
               </div>
               <div className="col-2">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -1027,7 +1417,12 @@ const Note4To13 = () => {
                 <p>Changes in accounting policy</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">-</p>
+                <p className="text-end border-btm">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">-</p>
@@ -1086,16 +1481,31 @@ const Note4To13 = () => {
                 <p>Social Islami Bank Ltd-HPSM</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
                 <p className="text-end">8,037,677</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -1103,16 +1513,31 @@ const Note4To13 = () => {
                 <p>Social Islami Bank Ltd -LTR</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                  <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
                 <p className="text-end">8,037,677</p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                  <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end">8,037,677</p>
+                <p className="text-end">
+                  <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -1120,16 +1545,31 @@ const Note4To13 = () => {
                 <p>Social Islami Bank Ltd -overdraft</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">8,037,677</p>
+                <p className="text-end border-btm">
+                  <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">8,037,677</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">8,037,677</p>
+                <p className="text-end border-btm">
+                  <input
+                  className="input-group input-group-sm mb-1 input"
+                  type="number"
+                />
+                </p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">8,037,677</p>
+                <p className="text-end border-btm">
+                  <input
+                  className="input-group input-group-sm -1 input"
+                  type="number"
+                />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -2680,6 +3120,7 @@ const Note4To13 = () => {
         </div>
       </div>
     </div>
+
 
   );
 };

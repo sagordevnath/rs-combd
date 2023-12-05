@@ -2,13 +2,14 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Navbar.css'
 import { Link } from 'react-router-dom';
+import logo from '../../assets/RSComms1.png'
 
 function Navbar() {
   return (
-    <div className='sticky-top'>
+    <div className='sticky-top w-100'>
     <nav className="navbar navbar-expand-lg w-auto">
   <div className="container-fluid">
-    <Link className="navbar-brand text-white" to="/home">RS Communications Limited</Link>
+    <Link className="navbar-brand text-white" to="/home"><img src={logo} alt="" /></Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>

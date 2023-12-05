@@ -5,7 +5,7 @@ const FinancialStatements = () => {
     return (
         <div className='row position-relative h-100 d-flex'>      
       <div className='col-lg-2 sticky-top'>
-        <ul className='text-warning text-start'>
+        <ul className='text-warning text-start side-nav'>
           {/* <li><NavLink to='/financialStatements/report'>Report</NavLink></li> */}
           <li><NavLink className="text-warning fs-5" index to='/financialStatements/sfp'>Financial Position</NavLink></li>          
           <li><NavLink className="text-warning fs-5" to='/financialStatements/pnl'>Profit or Loss</NavLink></li>          
@@ -17,10 +17,9 @@ const FinancialStatements = () => {
           {/* <li><NavLink to="/financialStatements/cover">Cover</NavLink></li>         */}
         </ul>
       </div>
-      <div className='col-lg-9 ms-2'>
+      <div className='col-lg-9 ms-2 outlet'>
         <Outlet>
         </Outlet>
-          <h1 className='text-center'>Welcome to Financial statement</h1>
       </div>
     </div>
     );

@@ -1,63 +1,138 @@
-import React from 'react';
-import './LoginRegister.css'
-import { Link } from 'react-router-dom';
+import React, { useEffect } from 'react';
+import { useSignInWithEmailAndPassword, useSignInWithGoogle } from 'react-firebase-hooks/auth';
+import auth from '../../firebase.init'
+import { useForm } from "react-hook-form";
+import Loading from '../Shared/Loading';
+import { Link, useNavigate, useLocation } from 'react-router-dom';
+import useToken from '../hooks/useToken';
+import "./LoginRegister.css";
 
 const Login = () => {
+    const [signInWithGoogle, gUser, gLoading, gError] = useSignInWithGoogle(auth);
+    const { register, formState: { errors }, handleSubmit } = useForm();
+    const [
+        signInWithEmailAndPassword,
+        user,
+        loading,
+        error,
+    ] = useSignInWithEmailAndPassword(auth);
+
+    const [token] = useToken(user || gUser);
+
+    let signInError;
+    const navigate = useNavigate();
+    const location = useLocation();
+    let from = location.state?.from?.pathname || "/";
+
+    useEffect( () =>{
+        if (token) {
+            navigate(from, { replace: true });
+        }
+    }, [token, from, navigate])
+    if(user || gUser) {
+        navigate(from, { replace: true })
+    }
+
+    if (loading || gLoading) {
+        return <Loading></Loading>
+    }
+
+    if(error || gError){
+        signInError= <p className='text-warning'><small>{error?.message || gError?.message }</small></p>
+    }
+
+    const onSubmit = data => {
+        signInWithEmailAndPassword(data.email, data.password);
+    }
+
     return (
-        <>
-        <div className="section-padding">
-        <div className="container">
-            <div className="row">
-                <div className="col-md-8">
-                    <div className="white-box">
-                        <h4>Send a massage</h4>
-                        <div className="contact-form">
-                           <form method="POST" action="http://formspree.io/ssagor64@gmail.com">
-                                <div className="row">
-                                    <div className="col-md-6">
-                                        <input name="firstname" type="text" placeholder="First name" required />
-                                    </div>
-                                    <div className="col-md-6">
-                                        <input name="lastname" type="text" placeholder="Last name" required />
-                                    </div>
-                                </div>
-                                <div className="row">
-                                    <div className="col-md-6">
-                                        <input name="email" type="email" placeholder="Your Email" required />
-                                    </div>
-                                    <div className="col-md-6">
-                                        <input name="phone" type="tel" placeholder="Phone number" required />
-                                    </div>
-                                </div>
+        <div className='d-flex flex-column justify-content-center align-items-center background-image'>
 
-                                <textarea name="massage" id="massage" cols="30" rows="10" placeholder="Write your massage" required></textarea>
-                                    <div className="submit">
-                                <input type="submit" placeholder="Send massage" />
-                            </div>
-                           </form>
+            <div className="hero min-h-screen left-side">
+            <div className="min-h-screen d-flex align-items-center">
+  <div className="container">
+    <div className="row">
+      <div className="col-md-6">
+      <div>
+                        <h1 className="text-5xl font-bold">Bayond</h1>
+                        <p className="py-6">Log in to your account</p>
+                        <p className="py-6">Don't have an account?</p>
+                        <button className="btn btn-primary">Register now</button>
+                    </div>
+      </div>
+    </div>
+  </div>
+</div>
+                    
+            </div>
+            <div className="right-side">
+                <div className="card shadow-xl">
+                    <div className="card-body">
+                    
+                    <form onSubmit={handleSubmit(onSubmit)}>
+
+                        <div className="form-control">
+                            
+                            <input
+                                type="email"
+                                placeholder="Your Email"
+                                className="input input-bordered "
+                                {...register("email", {
+                                    required: {
+                                        value: true,
+                                        message: 'Email is Required'
+                                    },
+                                    pattern: {
+                                        value: /[a-z0-9]+@[a-z]+\.[a-z]{2,3}/,
+                                        message: 'Provide a valid Email'
+                                    }
+                                })}
+                            />
+                            <label className="label">
+                                {errors.email?.type === 'required' && <span className="label-text-alt text-red-500">{errors.email.message}</span>}
+                                {errors.email?.type === 'pattern' && <span className="label-text-alt text-red-500">{errors.email.message}</span>}
+                            </label>
                         </div>
-                    </div>
-                </div>
-                <div className="col-md-4">
-                    <div className="colored-box">
-                        <h4>Get in touch</h4>
-                        <p className="contact-info"><i className="fas fa-home"></i>Panjia, Keshabpur, Jashore<br />Bangladesh</p>
-                        <p className="contact-info"><i className="fas fa-mobile"></i><a href="#">+01710-786364<br />+01704840535</a></p>
-                        <p className="contact-info"><i className="fas fa-envelope"></i><a href="mailto:info@website">ssagor64@gmail.com</a><br />
-                            <a href="mailto:info@website.com">aitizzosagor@gmail.com.</a></p>
+                        <div className="form-control w-full ">
+                            
+                            <input
+                                type="password"
+                                placeholder="Password"
+                                className="input input-bordered "
+                                {...register("password", {
+                                    required: {
+                                        value: true,
+                                        message: 'Password is Required'
+                                    },
+                                    minLength: {
+                                        value: 6,
+                                        message: 'Must be 6 characters or longer'
+                                    }
+                                })}
+                            />
+                            <label className="label">
+                                {errors.password?.type === 'required' && <span className="label-text-alt text-red-500">{errors.password.message}</span>}
+                                {errors.password?.type === 'minLength' && <span className="label-text-alt text-red-500">{errors.password.message}</span>}
+                            </label>
+                        </div>
 
-                            <div className="social-icon">
-                                <a href="" target="_blank"><i className="fab fa-facebook-f"></i></a>
-                                <a href="" target="_blank"><i className="fab fa-twitter"></i></a>
-                                <a href="" target="_blank"><i className="fab fa-linkedin-in"></i></a>
-                                <a href="" target="_blank"><i className="fab fa-youtube"></i></a>
-                            </div>
-                    </div>
+                        {signInError}
+                        <input className='btn w-full max-w-xs text-white' type="submit" value="Login" /> <input className='btn w-full mr-0 max-w-xs text-white' type="submit" value="Forget Password" />
+                    </form>
+                    <p><small>New to Doctors Portal <Link className='text-primary' to="/signup">Create New Account</Link></small></p>
+                    <div className="divider">OR</div>
+                    <button
+                        onClick={() => signInWithGoogle()}
+                        className="btn btn-outline"
+                    >Continue with Google</button>
                 </div>
             </div>
-        </div>
-    </div></>
+    </div>
+
+
+            
+        </div >
     );
-}
+};
 
 export default Login;
