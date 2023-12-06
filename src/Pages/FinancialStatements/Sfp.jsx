@@ -62,9 +62,24 @@ const Sfp = () => {
         </div>
         <div className="container">
           <div className="single-note">
-            <div className="row">
+            <div className="row mb-2">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <p>Property, plant and equipment</p>
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Property, plant and equipment</option>
+                  <option value="1">Right-of-use asset</option>
+                  <option value="2">Goodwill</option>
+                  <option value="3">Intangible assets</option>
+                  <option value="4">Investment property</option>
+                  <option value="5">Interests in joint ventures</option>
+                  <option value="6">Investment in associates</option>
+                  <option value="7">Investments in financial assets</option>
+                  <option value="8">Investments in financial assets with related parties</option>
+                  <option value="9">Derivative financial instruments</option>
+                  <option value="10">Finance lease receivables</option>
+                  <option value="11">Contract assets</option>
+                  <option value="12">Contract costs</option>
+                  <option value="13">Deferred tax asset </option>
+                </select>
                 <p>4</p>
               </div>
               <div className="col-2">
@@ -74,15 +89,27 @@ const Sfp = () => {
                 <p className="text-end">2,938,477</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                <p className="text-end">2,938,477</p>
               </div>
             </div>
             <div className="row">
               <div className="col-5 offset-1 border-btm d-flex justify-content-between">
-                <p>Intangible assets</p>
+              <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Intangible assets</option>
+                  <option value="1">Property, plant and equipment</option>
+                  <option value="2">Right-of-use asset</option>
+                  <option value="3">Goodwill</option>
+                  <option value="4">Investment property</option>
+                  <option value="5">Interests in joint ventures</option>
+                  <option value="6">Investment in associates</option>
+                  <option value="7">Investments in financial assets</option>
+                  <option value="8">Investments in financial assets with related parties</option>
+                  <option value="9">Derivative financial instruments</option>
+                  <option value="10">Finance lease receivables</option>
+                  <option value="11">Contract assets</option>
+                  <option value="12">Contract costs</option>
+                  <option value="13">Deferred tax asset </option>
+                </select>
                 <p>5</p>
               </div>
               <div className="col-2">
@@ -92,10 +119,7 @@ const Sfp = () => {
                 <p className="text-end border-btm margin-btm-2">314,923</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse border-btm">
-                <input
-                  className="input input-group input-group-sm mb-1"
-                  type="number"
-                />
+                <p className="text-end">2,938,477</p>
               </div>
             </div>
             <div className="row">
@@ -126,7 +150,20 @@ const Sfp = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <p>Inventories</p>
+              <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Inventories</option>
+                  <option value="1">Contract assets</option>
+                  <option value="2">Right to returned goods assets</option>
+                  <option value="3">Trade and other receivables</option>
+                  <option value="4">Receivables from related parties</option>
+                  <option value="5">Advances, deposits and prepayments</option>
+                  <option value="6">Advance income tax</option>
+                  <option value="7">Finance lease receivables</option>
+                  <option value="8">Investments in financial assets</option>
+                  <option value="9">Current financial assets</option>
+                  <option value="10">Cash and cash equivalents</option>
+                  <option value="11">Assets classified as held for sale</option>
+                </select>
                 <p>6</p>
               </div>
               <div className="col-2">
@@ -136,15 +173,25 @@ const Sfp = () => {
                 <p className="text-end">2,938,477</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse">
-                <input
-                  className="input input-group input-group-sm mb-1"
-                  type="number"
-                />
+                <p className="text-end">2,938,477</p>
               </div>
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <p>Trade and other receivables</p>
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Trade and other receivables</option>
+                  <option value="1">Inventories</option>
+                  <option value="2">Contract assets</option>
+                  <option value="3">Right to returned goods assets</option>
+                  <option value="4">Receivables from related parties</option>
+                  <option value="5">Advances, deposits and prepayments</option>
+                  <option value="6">Advance income tax</option>
+                  <option value="7">Finance lease receivables</option>
+                  <option value="8">Investments in financial assets</option>
+                  <option value="9">Current financial assets</option>
+                  <option value="10">Cash and cash equivalents</option>
+                  <option value="11">Assets classified as held for sale</option>
+                </select>
                 <p>7</p>
               </div>
               <div className="col-2">
@@ -162,7 +209,20 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <p>Advances, deposits and prepayments</p>
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Receivables from related parties</option>
+                  <option value="1">Inventories</option>
+                  <option value="2">Contract assets</option>
+                  <option value="3">Right to returned goods assets</option>
+                  <option value="4">Trade and other receivables</option>
+                  <option value="5">Advances, deposits and prepayments</option>
+                  <option value="6">Advance income tax</option>
+                  <option value="7">Finance lease receivables</option>
+                  <option value="8">Investments in financial assets</option>
+                  <option value="9">Current financial assets</option>
+                  <option value="10">Cash and cash equivalents</option>
+                  <option value="11">Assets classified as held for sale</option>
+                </select>
                 <p>8</p>
               </div>
               <div className="col-2">
@@ -180,8 +240,21 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <p>Advance income tax</p>
-                <p>10</p>
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Finance lease receivables</option>
+                  <option value="1">Inventories</option>
+                  <option value="2">Contract assets</option>
+                  <option value="3">Right to returned goods assets</option>
+                  <option value="4">Receivables from related parties</option>
+                  <option value="5">Advances, deposits and prepayments</option>
+                  <option value="6">Advance income tax</option>
+                  <option value="7">Trade and other receivables</option>
+                  <option value="8">Investments in financial assets</option>
+                  <option value="9">Current financial assets</option>
+                  <option value="10">Cash and cash equivalents</option>
+                  <option value="11">Assets classified as held for sale</option>
+                </select>
+                <p>9</p>
               </div>
               <div className="col-2">
                 <p className="text-end">(314,923)</p>
@@ -197,8 +270,49 @@ const Sfp = () => {
               </div>
             </div>
             <div className="row">
+              <div className="col-5 offset-1 d-flex justify-content-between">
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Advance income tax</option>
+                  <option value="1">Inventories</option>
+                  <option value="2">Contract assets</option>
+                  <option value="3">Right to returned goods assets</option>
+                  <option value="4">Receivables from related parties</option>
+                  <option value="5">Advances, deposits and prepayments</option>
+                  <option value="6">Trade and other receivables</option>
+                  <option value="7">Finance lease receivables</option>
+                  <option value="8">Investments in financial assets</option>
+                  <option value="9">Current financial assets</option>
+                  <option value="10">Cash and cash equivalents</option>
+                  <option value="11">Assets classified as held for sale</option>
+                </select>
+                <p>10</p>
+              </div>
+              <div className="col-2">
+                <p className="text-end">(314,923)</p>
+              </div>
+              <div className="col-2">
+                <p className="text-end">(314,923)</p>
+              </div>
+              <div className="col-2 d-flex flex-row-reverse">
+                <p className="text-end">(314,923)</p>
+              </div>
+            </div>
+            <div className="row">
               <div className="col-5 offset-1 border-btm d-flex justify-content-between">
-                <p>Cash and cash equivalents</p>
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Cash and cash equivalents</option>
+                  <option value="1">Inventories</option>
+                  <option value="2">Contract assets</option>
+                  <option value="3">Right to returned goods assets</option>
+                  <option value="4">Receivables from related parties</option>
+                  <option value="5">Advances, deposits and prepayments</option>
+                  <option value="6">Trade and other receivables</option>
+                  <option value="7">Finance lease receivables</option>
+                  <option value="8">Investments in financial assets</option>
+                  <option value="9">Current financial assets</option>
+                  <option value="10">Advance income tax</option>
+                  <option value="11">Assets classified as held for sale</option>
+                </select>
                 <p>11</p>
               </div>
               <div className="col-2">
@@ -263,7 +377,13 @@ const Sfp = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <p>Share capital</p>
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Share capital</option>
+                  <option value="1">Calls-in-arrear</option>
+                  <option value="2">Retained earnings</option>
+                  <option value="3">Share money deposit</option>
+                  <option value="4">Capital reserve</option>
+                </select>
                 <p>12</p>
               </div>
               <div className="col-2">
@@ -280,8 +400,62 @@ const Sfp = () => {
               </div>
             </div>
             <div className="row">
+              <div className="col-5 offset-1 d-flex justify-content-between">
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Calls-in-arrear</option>
+                  <option value="1">Share capital</option>
+                  <option value="2">Retained earnings</option>
+                  <option value="3">Share money deposit</option>
+                  <option value="4">Capital reserve</option>
+                </select>
+                <p>13</p>
+              </div>
+              <div className="col-2">
+                <p className="text-end">2,938,477</p>
+              </div>
+              <div className="col-2">
+                <p className="text-end">2,938,477</p>
+              </div>
+              <div className="col-2 d-flex flex-row-reverse">
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-5 offset-1 d-flex justify-content-between">
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Share money deposit</option>
+                  <option value="1">Share capital</option>
+                  <option value="2">Retained earnings</option>
+                  <option value="3">Calls-in-arrear</option>
+                  <option value="4">Capital reserve</option>
+                </select>
+                <p>14</p>
+              </div>
+              <div className="col-2">
+                <p className="text-end">2,938,477</p>
+              </div>
+              <div className="col-2">
+                <p className="text-end">2,938,477</p>
+              </div>
+              <div className="col-2 d-flex flex-row-reverse">
+                <input
+                  className="input input-group input-group-sm mb-1"
+                  type="number"
+                />
+              </div>
+            </div>
+            <div className="row">
               <div className="col-5 offset-1 border-btm-2 d-flex justify-content-between">
-                <p>Retained earnings</p>
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Retained earnings</option>
+                  <option value="1">Share capital</option>
+                  <option value="2">Calls-in-arrear</option>
+                  <option value="3">Share money deposit</option>
+                  <option value="4">Capital reserve</option>
+                </select>
                 <p>15</p>
               </div>
               <div className="col-2">
@@ -291,10 +465,7 @@ const Sfp = () => {
                 <p className="text-end border-btm-2">314,923</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse border-btm-2">
-                <input
-                  className="input input-group input-group-sm mb-1 border-btm-2"
-                  type="number"
-                />
+                <p className="text-end">314,923</p>
               </div>
             </div>
             <div className="row border-btm-2">
@@ -324,7 +495,17 @@ const Sfp = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <p>Borrowings from bank</p>
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Borrowings from bank</option>
+                  <option value="1">Financial liabilities with related parties</option>
+                  <option value="2">Lease liabilities</option>
+                  <option value="3">Contract liabilities</option>
+                  <option value="4">Retirement benefit obligations</option>
+                  <option value="5">Liability for share-based payments</option>
+                  <option value="6">Deferred income</option>
+                  <option value="7">Provisions</option>
+                  <option value="8">Deferred tax liabilities</option>
+                </select>
                 <p>16</p>
               </div>
               <div className="col-2">
@@ -342,7 +523,17 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <p>Deferred tax liabilities</p>
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Deferred tax liabilities</option>
+                  <option value="1">Financial liabilities with related parties</option>
+                  <option value="2">Lease liabilities</option>
+                  <option value="3">Contract liabilities</option>
+                  <option value="4">Retirement benefit obligations</option>
+                  <option value="5">Liability for share-based payments</option>
+                  <option value="6">Deferred income</option>
+                  <option value="7">Provisions</option>
+                  <option value="8">Borrowings from bank</option>
+                </select>
                 <p>17</p>
               </div>
               <div className="col-2">
@@ -360,7 +551,17 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between border-btm">
-                <p>Financial liabilities with related parties</p>
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Financial liabilities with related parties</option>
+                  <option value="1">Deferred tax liabilities</option>
+                  <option value="2">Lease liabilities</option>
+                  <option value="3">Contract liabilities</option>
+                  <option value="4">Retirement benefit obligations</option>
+                  <option value="5">Liability for share-based payments</option>
+                  <option value="6">Deferred income</option>
+                  <option value="7">Provisions</option>
+                  <option value="8">Borrowings from bank</option>
+                </select>
                 <p>18</p>
               </div>
               <div className="col-2">
@@ -403,8 +604,16 @@ const Sfp = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <p>Borrowings from bank - current portion</p>
-                <p>16</p>
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Borrowings from bank - current portion</option>
+                  <option value="1">Short-term financial liabilities</option>
+                  <option value="2">Trade and other payables</option>
+                  <option value="3">Advance received from customers</option>
+                  <option value="4">Financial liabilities with related parties</option>
+                  <option value="5">Current tax payable</option>
+                  <option value="6">Provision for expense</option>
+                </select>
+                <p>19</p>
               </div>
               <div className="col-2">
                 <p className="text-end">2,938,477</p>
@@ -421,7 +630,15 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <p>Trade and other payables </p>
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Trade and other payables</option>
+                  <option value="1">Short-term financial liabilities</option>
+                  <option value="2">Borrowings from bank - current portion</option>
+                  <option value="3">Advance received from customers</option>
+                  <option value="4">Financial liabilities with related parties</option>
+                  <option value="5">Current tax payable</option>
+                  <option value="6">Provision for expense</option>
+                </select>
                 <p>20</p>
               </div>
               <div className="col-2">
@@ -439,7 +656,15 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <p>Current tax payable</p>
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Current tax payable</option>
+                  <option value="1">Short-term financial liabilities</option>
+                  <option value="2">Trade and other payables</option>
+                  <option value="3">Advance received from customers</option>
+                  <option value="4">Financial liabilities with related parties</option>
+                  <option value="5">Borrowings from bank - current portion</option>
+                  <option value="6">Provision for expense</option>
+                </select>
                 <p>21</p>
               </div>
               <div className="col-2">
@@ -449,15 +674,20 @@ const Sfp = () => {
                 <p className="text-end">(314,923)</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse">
-                <input
-                  className="input input-group input-group-sm mb-1"
-                  type="number"
-                />
+                <p className="text-end">(314,923)</p>
               </div>
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between border-btm">
-                <p>Provision for expense</p>
+                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                  <option selected>Provision for expense</option>
+                  <option value="1">Short-term financial liabilities</option>
+                  <option value="2">Trade and other payables</option>
+                  <option value="3">Advance received from customers</option>
+                  <option value="4">Financial liabilities with related parties</option>
+                  <option value="5">Current tax payable</option>
+                  <option value="6">Borrowings from bank - current portion</option>
+                </select>
                 <p>22</p>
               </div>
               <div className="col-2">
@@ -525,6 +755,7 @@ const Sfp = () => {
         </div>
       </div>
     </div>
+
   );
 };
 
