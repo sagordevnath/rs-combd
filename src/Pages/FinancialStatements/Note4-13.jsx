@@ -163,7 +163,7 @@ const Note4To13 = () => {
             </div>
             <div className="row">
               <div className="col-7 offset-1">
-                <p>Accumulated amortization  (Annexure A)</p>
+                <p>Accumulated amortization (Annexure A)</p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">8,037,677</p>
@@ -196,18 +196,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -217,18 +217,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -238,18 +238,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -259,18 +259,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -288,18 +288,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -327,18 +327,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -348,18 +348,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -369,18 +369,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -390,18 +390,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -429,18 +429,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -450,18 +450,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -471,18 +471,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                /> 
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -503,18 +503,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -524,18 +524,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -545,18 +545,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -587,10 +587,10 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -600,18 +600,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -621,18 +621,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -671,18 +671,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -692,18 +692,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -734,10 +734,10 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -747,18 +747,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -768,18 +768,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -789,18 +789,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -810,18 +810,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -831,18 +831,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -852,18 +852,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -873,18 +873,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -923,18 +923,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -973,39 +973,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
-                </p>
-              </div>
-            </div>
-            <div className="row">
-              <div className="col-7 offset-1">
-                <p>Shah Jalal Islamic Bank Limited AC No.401613100001120</p>
-              </div>
-              <div className="col-2">
-                <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
-                </p>
-              </div>
-              <div className="col-2">
-                <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -1015,39 +994,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
-                </p>
-              </div>
-            </div>
-            <div className="row">
-              <div className="col-7 offset-1">
-                <p>Shah Jalal Islamic Bank Limited AC No.401613100001120</p>
-              </div>
-              <div className="col-2">
-                <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
-                </p>
-              </div>
-              <div className="col-2">
-                <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -1057,18 +1015,60 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
+                </p>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-7 offset-1">
+                <p>Shah Jalal Islamic Bank Limited AC No.401613100001120</p>
+              </div>
+              <div className="col-2">
+                <p className="text-end">
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
+                </p>
+              </div>
+              <div className="col-2">
+                <p className="text-end">
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
+                </p>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-7 offset-1">
+                <p>Shah Jalal Islamic Bank Limited AC No.401613100001120</p>
+              </div>
+              <div className="col-2">
+                <p className="text-end">
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
+                </p>
+              </div>
+              <div className="col-2">
+                <p className="text-end">
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -1078,18 +1078,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -1099,18 +1099,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -1144,7 +1144,12 @@ const Note4To13 = () => {
             </div>
             <div className="row">
               <div className="col-7 offset-1">
-                <p><input className="w-25 input-group-sm input" type="text" /> ordinary shares of Tk <input className="w-25 input-group-sm input" type="text" /> each</p>
+                <p>
+                  <input className="w-25 input-group-sm input" type="text" />{" "}
+                  ordinary shares of Tk{" "}
+                  <input className="w-25 input-group-sm input" type="text" />{" "}
+                  each
+                </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm-2 fw-bold">8,037,677</p>
@@ -1160,7 +1165,9 @@ const Note4To13 = () => {
                 <p className="bold">12.02 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">Issued, subscribed, called up and paid up capital</h5>
+                <h5 className="font-16">
+                  Issued, subscribed, called up and paid up capital
+                </h5>
               </div>
             </div>
             <div className="row">
@@ -1188,10 +1195,10 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -1210,10 +1217,10 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -1232,10 +1239,10 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -1254,10 +1261,10 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -1300,10 +1307,10 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -1322,10 +1329,10 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -1362,10 +1369,10 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -1405,10 +1412,10 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -1418,10 +1425,10 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -1482,10 +1489,10 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -1493,18 +1500,18 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -1515,9 +1522,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -1526,17 +1533,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -1547,9 +1554,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -1558,17 +1565,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm -1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm -1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -1593,7 +1600,9 @@ const Note4To13 = () => {
                 <p className="bold">16.01 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">Assets pledged as security against borrowings</h5>
+                <h5 className="font-16">
+                  Assets pledged as security against borrowings
+                </h5>
               </div>
             </div>
             <div className="row">
@@ -1681,9 +1690,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -1697,9 +1706,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -1718,7 +1727,9 @@ const Note4To13 = () => {
                 <p className="bold">17.01 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">Deferred tax liability on taxable{" "}<span className="border-btm">
+                <h5 className="font-16">
+                  Deferred tax liability on taxable{" "}
+                  <span className="border-btm">
                     /(deductible) cumulative temporary differences
                   </span>
                 </h5>
@@ -1755,9 +1766,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -1777,9 +1788,9 @@ const Note4To13 = () => {
               <div className="col-2 pl-0 border-btm">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2 pl-0 border-btm">
@@ -1831,9 +1842,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -1853,9 +1864,9 @@ const Note4To13 = () => {
               <div className="col-2 pl-0 border-btm">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2 pl-0 border-btm">
@@ -1883,7 +1894,9 @@ const Note4To13 = () => {
                 <p className="bold">18 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">Financial liabilities with related parties</h5>
+                <h5 className="font-16">
+                  Financial liabilities with related parties
+                </h5>
               </div>
             </div>
             <div className="row">
@@ -1893,17 +1906,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -1932,17 +1945,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -1953,17 +1966,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -1992,17 +2005,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2013,17 +2026,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2034,17 +2047,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2055,17 +2068,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2097,9 +2110,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2121,17 +2134,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2160,17 +2173,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2181,17 +2194,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2202,17 +2215,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2241,17 +2254,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2262,17 +2275,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2283,17 +2296,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2304,17 +2317,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2325,17 +2338,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2346,17 +2359,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2399,9 +2412,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2431,17 +2444,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2529,9 +2542,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -2543,9 +2556,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2556,9 +2569,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -2567,17 +2580,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2588,9 +2601,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -2599,17 +2612,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2620,9 +2633,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
@@ -2669,9 +2682,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2687,17 +2700,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2708,17 +2721,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2729,17 +2742,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2750,17 +2763,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2771,17 +2784,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2803,17 +2816,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2824,17 +2837,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2848,9 +2861,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2864,9 +2877,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2904,7 +2917,9 @@ const Note4To13 = () => {
                 <p className="bold">24.04 .</p>
               </div>
               <div className="col-11">
-                <h5 className="font-16">Production supplies and spare parts used</h5>
+                <h5 className="font-16">
+                  Production supplies and spare parts used
+                </h5>
               </div>
             </div>
             <div className="row">
@@ -2917,9 +2932,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2930,17 +2945,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -2980,17 +2995,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3001,20 +3016,20 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
-            </div>           
+            </div>
             <div className="row">
               <div className="col-7 offset-1">
                 <p>Telephone, internet and mobile expenses</p>
@@ -3022,17 +3037,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3043,17 +3058,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3064,17 +3079,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3085,17 +3100,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3106,17 +3121,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3127,17 +3142,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3148,17 +3163,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3180,17 +3195,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3204,9 +3219,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3220,9 +3235,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3256,17 +3271,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3280,9 +3295,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3309,17 +3324,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3333,9 +3348,9 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3375,17 +3390,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                 <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                /> 
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3407,17 +3422,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3446,17 +3461,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3467,17 +3482,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3506,17 +3521,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3527,17 +3542,17 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3548,17 +3563,18 @@ const Note4To13 = () => {
               <div className="col-2">
                 <p className="text-end border-btm">
                   <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                /></p>
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
+                </p>
               </div>
             </div>
             <div className="row">
@@ -3599,10 +3615,10 @@ const Note4To13 = () => {
               </div>
               <div className="col-2">
                 <p className="text-end border-btm">
-                <input
-                  className="input-group input-group-sm mb-1 input"
-                  type="number"
-                />
+                  <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  />
                 </p>
               </div>
             </div>
@@ -3699,9 +3715,6 @@ const Note4To13 = () => {
         </div>
       </div>
     </div>
-
-
-
   );
 };
 
