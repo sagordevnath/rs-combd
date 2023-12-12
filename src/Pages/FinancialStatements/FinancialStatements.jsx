@@ -63,7 +63,7 @@ const FinancialStatements = () => {
           {/* <li><NavLink to="/financialStatements/cover">Cover</NavLink></li>         */}
         </ul>
       </div>
-      <div className="col-lg-9 ms-2 outlet">
+      <div className="col-lg-10 outlet">
         <Outlet></Outlet>
       </div>
     </div>
