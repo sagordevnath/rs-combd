@@ -3,13 +3,14 @@ import { NavLink, Outlet } from "react-router-dom";
 
 const FinancialStatements = () => {
   return (
-    <div className="row position-relative h-100 d-flex">
+    <div className="container-fluid">
+      <div className="row position-relative h-100 d-flex">
       <div className="col-lg-2 sticky-top">
         <ul className="text-warning text-start side-nav">
           {/* <li><NavLink to='/financialStatements/report'>Report</NavLink></li> */}
           <li>
             <NavLink
-              className="text-warning fs-5"
+              className="text-warning fs-6"
               index
               to="/financialStatements/sfp"
             >
@@ -18,7 +19,7 @@ const FinancialStatements = () => {
           </li>
           <li>
             <NavLink
-              className="text-warning fs-5"
+              className="text-warning fs-6"
               to="/financialStatements/pnl"
             >
               Profit or Loss
@@ -26,7 +27,7 @@ const FinancialStatements = () => {
           </li>
           <li>
             <NavLink
-              className="text-warning fs-5"
+              className="text-warning fs-6"
               to="/financialStatements/sce"
             >
               Changes in Equity
@@ -34,7 +35,7 @@ const FinancialStatements = () => {
           </li>
           <li>
             <NavLink
-              className="text-warning fs-5"
+              className="text-warning fs-6"
               to="/financialStatements/scf"
             >
               Cash Flow
@@ -45,7 +46,7 @@ const FinancialStatements = () => {
           </li>
           <li>
             <NavLink
-              className="text-warning fs-5"
+              className="text-warning fs-6"
               to="/financialStatements/note4-13"
             >
               Note (4-13)
@@ -53,7 +54,7 @@ const FinancialStatements = () => {
           </li>
           <li>
             <NavLink
-              className="text-warning fs-5"
+              className="text-warning fs-6"
               to="/financialStatements/ppe"
             >
               Annexure A
@@ -65,6 +66,7 @@ const FinancialStatements = () => {
       <div className="col-lg-9 ms-2 outlet">
         <Outlet></Outlet>
       </div>
+    </div>
     </div>
   );
 };
