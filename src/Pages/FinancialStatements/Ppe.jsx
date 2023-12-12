@@ -71,14 +71,32 @@ const Ppe = () => {
             <td>1</td>
             <td className="text-left">Land (freehold)</td>
             <td className="text-left">Registration costs</td>
-            <td className="text-end"> 500,000</td>
-            <td className="text-end">500,000</td>
-            <td className="text-end"></td>
+            <td className="text-end"> <input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  /></td>
             <td className="text-end"> 5,500,000</td>
-            <td>0%</td>
+            <td><input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
-            <td className="text-end"></td>
-            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm mb-1 input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
             <td className="text-end"> 5,500,000</td>
             <td className="text-end"> 500,000</td>
