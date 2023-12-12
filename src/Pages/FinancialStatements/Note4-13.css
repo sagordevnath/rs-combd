@@ -112,3 +112,8 @@ th, td{
 .height-100 {
     height: 100px;
 }
+.input{
+    width: 100%;
+    background-color: #fff;
+    height: 20px;
+}
