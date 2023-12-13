@@ -400,13 +400,13 @@ const Ppe = () => {
             <td colSpan={3} className="border-none"></td>
             <td className="border-none text-end"> 500,000</td>
         </tr>
-        <tr className='b-none'>
+        <tr className='border-none'>
             <td colSpan={5} className="border-none"></td>
             <td colSpan={3} className="border-none text-left"> Administrative expense</td>
             <td colSpan={3} className="border-none"></td>
-            <td className="border-btm-2 text-end"> 50,000</td>
+            <td className="border-none border-btm text-end"> 50,000</td>
         </tr>
-        <tr className='b-none'>
+        <tr className='border-none'>
             <td colSpan={11} className="border-none"></td>
             <td className="border-none border-btm-2 text-end bold">500,000</td>
         </tr>
@@ -658,7 +658,7 @@ const Ppe = () => {
             <td className="bold text-end"> 5,500,000</td>
             <td className="bold text-end"> 500,000</td>
         </tr>
-        <tr className='height-25 b-none'>
+        <tr className='height-25 border-none'>
             
         </tr>
         <tr className='border-none'>

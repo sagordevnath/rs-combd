@@ -16,10 +16,10 @@
 
 }
 .border-btm{
-    border-bottom: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff !important;
 }
 .border-btm-2{
-    border-bottom: 2px solid #ffffff;
+    border-bottom: 2px solid #ffffff !important;
 }
 .border-btm-3{
     border-bottom: 3px solid #ffffff;
@@ -78,7 +78,7 @@ th, td {
     padding: 1px;
   }
 table{
-    border-top: 1px solid #000;
+    border: none !important;
   }
 th, td{
     text-align: center;
