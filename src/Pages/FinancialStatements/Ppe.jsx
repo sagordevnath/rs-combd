@@ -105,14 +105,32 @@ const Ppe = () => {
             <td>2</td>
             <td className="text-left">Buildings</td>
             <td className="text-left">Factory building</td>
-            <td className="text-end"> 500,000</td>
-            <td className="text-end">500,000</td>
-            <td className="text-end"></td>
+            <td className="text-end"> <input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"> 5,500,000</td>
-            <td>0%</td>
+            <td><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
-            <td className="text-end"></td>
-            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
             <td className="text-end"> 5,500,000</td>
             <td className="text-end"> 500,000</td>
@@ -121,14 +139,32 @@ const Ppe = () => {
             <td>3</td>
             <td className="text-left">Machinery</td>
             <td className="text-left">Machinery</td>
-            <td className="text-end"> 500,000</td>
-            <td className="text-end">500,000</td>
-            <td className="text-end"></td>
+            <td className="text-end"> <input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"> 5,500,000</td>
-            <td>0%</td>
+            <td><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
-            <td className="text-end"></td>
-            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
             <td className="text-end"> 5,500,000</td>
             <td className="text-end"> 500,000</td>
@@ -137,14 +173,32 @@ const Ppe = () => {
             <td>4</td>
             <td className="text-left">Motor vehicles</td>
             <td className="text-left">Motor car</td>
-            <td className="text-end"> 500,000</td>
-            <td className="text-end">500,000</td>
-            <td className="text-end"></td>
+            <td className="text-end"> <input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"> 5,500,000</td>
-            <td>0%</td>
+            <td><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
-            <td className="text-end"></td>
-            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
             <td className="text-end"> 5,500,000</td>
             <td className="text-end"> 500,000</td>
@@ -153,14 +207,32 @@ const Ppe = () => {
             <td>5</td>
             <td className="text-left">Furniture and fixtures </td>
             <td className="text-left">Furniture</td>
-            <td className="text-end"> 500,000</td>
-            <td className="text-end">500,000</td>
-            <td className="text-end"></td>
+            <td className="text-end"> <input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"> 5,500,000</td>
-            <td>0%</td>
+            <td><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
-            <td className="text-end"></td>
-            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
             <td className="text-end"> 5,500,000</td>
             <td className="text-end"> 500,000</td>
@@ -169,14 +241,32 @@ const Ppe = () => {
             <td>6</td>
             <td className="text-left">Low value assets (LVA)</td>
             <td className="text-left">Refrigerator</td>
-            <td className="text-end"> 500,000</td>
-            <td className="text-end">500,000</td>
-            <td className="text-end"></td>
+            <td className="text-end"> <input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"> 5,500,000</td>
-            <td>0%</td>
+            <td><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
-            <td className="text-end"></td>
-            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
             <td className="text-end"> 5,500,000</td>
             <td className="text-end"> 500,000</td>
@@ -185,14 +275,32 @@ const Ppe = () => {
             <td>7</td>
             <td className="text-left">Office equipment</td>
             <td className="text-left">Computer, printer</td>
-            <td className="text-end"> 500,000</td>
-            <td className="text-end">500,000</td>
-            <td className="text-end"></td>
+            <td className="text-end"> <input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"> 5,500,000</td>
-            <td>0%</td>
+            <td><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
-            <td className="text-end"></td>
-            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
             <td className="text-end"> 5,500,000</td>
             <td className="text-end"> 500,000</td>
@@ -201,16 +309,35 @@ const Ppe = () => {
             <td>8</td>
             <td className="text-left">Assets under construction (AUC)</td>
             <td className="text-left">Construction work in progress</td>
+            <td className="text-end"> <input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"> 5,500,000</td>
+            <td><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"></td>
+            <td className="text-end"> 5,500,000</td>
             <td className="text-end"> 500,000</td>
-            <td className="text-end">500,000</td>
-            <td className="text-end"></td>
-            <td className="text-end"> 5,500,000</td>
-            <td>0%</td>
-            <td className="text-end"></td>
-            <td className="text-end"></td>
-            <td className="text-end"></td>
-            <td className="text-end"></td>
-            <td className="text-end"> 5,500,000</td>
             <td> 500,000</td>
         </tr>
         <tr className='border-btm-2 margin-bottom-30'>
@@ -234,22 +361,40 @@ const Ppe = () => {
         <tr className='border-btm-2'>
             <td colSpan={2} className="bold"> At 30 June 2022</td>
             <td></td>
-            <td className="bold text-end"> 500,000</td>
-            <td className="bold text-end">500,000</td>
-            <td className="bold text-end"> 500,000</td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="bold text-end"> 5,500,000</td>
             <td className="bold text-end"></td>
-            <td className="bold text-end"> 500,000</td>
-            <td className="bold text-end"> 500,000</td>
-            <td className="bold text-end"> 500,000</td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="bold text-end"> 500,000</td>
             <td className="bold text-end"> 5,500,000</td>
             <td className="bold text-end"> 500,000</td>
         </tr>
-        <tr className='height-25 b-none'>
+        <tr className='height-25 border-none'>
             
         </tr>
-        <tr className='b-none'>
+        <tr className='border-none'>
             <td colSpan={5} className="border-none"></td>
             <td colSpan={3} className="border-none text-left">Cost of sales</td>
             <td colSpan={3} className="border-none"></td>
@@ -330,14 +475,32 @@ const Ppe = () => {
             <td>1</td>
             <td className="text-left">Computer software</td>
             <td className="text-left"> Software</td>
-            <td className="text-end"> 500,000</td>
-            <td className="text-end">500,000</td>
-            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"> 5,500,000</td>
-            <td>0%</td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
-            <td className="text-end"></td>
-            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
             <td className="text-end"> 5,500,000</td>
             <td className="text-end"> 500,000</td>
@@ -346,14 +509,32 @@ const Ppe = () => {
             <td>2</td>
             <td className="text-left">Brand names</td>
             <td className="text-left">Brand registration</td>
-            <td className="text-end"> 500,000</td>
-            <td className="text-end">500,000</td>
-            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"> 5,500,000</td>
-            <td>0%</td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
-            <td className="text-end"></td>
-            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
             <td className="text-end"> 5,500,000</td>
             <td className="text-end"> 500,000</td>
@@ -362,14 +543,32 @@ const Ppe = () => {
             <td>3</td>
             <td className="text-left">Intangibles assets under development (AUD)</td>
             <td className="text-left">Preliminary expenses</td>
-            <td className="text-end"> 500,000</td>
-            <td className="text-end">500,000</td>
-            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"> 5,500,000</td>
-            <td>0%</td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
-            <td className="text-end"></td>
-            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
             <td className="text-end"> 5,500,000</td>
             <td className="text-end"> 500,000</td>
@@ -378,14 +577,32 @@ const Ppe = () => {
             <td>4</td>
             <td className="text-left">Intangibles assets under development (AUD)</td>
             <td className="text-left">Un-allocated revenue expenditure </td>
-            <td className="text-end"> 500,000</td>
-            <td className="text-end">500,000</td>
-            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"> 5,500,000</td>
-            <td>0%</td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
-            <td className="text-end"></td>
-            <td className="text-end"></td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="text-end"></td>
             <td className="text-end"> 5,500,000</td>
             <td className="text-end"> 500,000</td>
@@ -411,14 +628,32 @@ const Ppe = () => {
         <tr className='border-btm-2'>
             <td colSpan={2} className="bold"> At 30 June 2022</td>
             <td></td>
-            <td className="bold text-end"> 500,000</td>
-            <td className="bold text-end">500,000</td>
-            <td className="bold text-end"> 500,000</td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="bold text-end"> 5,500,000</td>
             <td className="bold text-end"></td>
-            <td className="bold text-end"> 500,000</td>
-            <td className="bold text-end"> 500,000</td>
-            <td className="bold text-end"> 500,000</td>
+            <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
+                  <td className="text-end"><input
+                    className="input-group input-group-sm input"
+                    type="number"
+                  /></td>
             <td className="bold text-end"> 500,000</td>
             <td className="bold text-end"> 5,500,000</td>
             <td className="bold text-end"> 500,000</td>
@@ -426,19 +661,19 @@ const Ppe = () => {
         <tr className='height-25 b-none'>
             
         </tr>
-        <tr className='b-none'>
+        <tr className='border-none'>
             <td colSpan={5} className="border-none"></td>
             <td colSpan={3} className="border-none text-left">Cost of sales</td>
             <td colSpan={3} className="border-none"></td>
             <td className="border-none text-end"> 500,000</td>
         </tr>
-        <tr className='b-none'>
+        <tr className='border-none'>
             <td colSpan={5} className="border-none"></td>
             <td colSpan={3} className="border-none text-left"> Administrative expense</td>
             <td colSpan={3} className="border-none"></td>
-            <td className="border-btm-2 text-end"> 50,000</td>
+            <td className="border-none border-btm-2 text-end"> 50,000</td>
         </tr>
-        <tr className='b-none'>
+        <tr className='border-none'>
             <td colSpan={11} className="border-none"></td>
             <td className="border-none border-btm-2 text-end bold">500,000</td>
         </tr>
