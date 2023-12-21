@@ -338,7 +338,6 @@ const Ppe = () => {
             <td className="text-end"></td>
             <td className="text-end"> 5,500,000</td>
             <td className="text-end"> 500,000</td>
-            <td> 500,000</td>
         </tr>
         <tr className='border-btm-2 margin-bottom-30'>
             <td colSpan={2} className="bold"> At 30 June 2023</td>
