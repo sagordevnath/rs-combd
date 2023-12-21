@@ -1,8 +1,24 @@
-
 .banner {
-    height: 450px;
-    width: 100%;
-    background-image: url(../../assets/images/details/section-bg-1.jpg);
-    opacity: 10px;
-    margin-bottom: 20px;
+  height: calc(100vh - 66px);
+  /* width: 100%; */
+  background-image: url(../../assets/images/details/banner-bg.jpg);
+  /* opacity: 10px; */
+  /* margin-bottom: 20px; */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+}
+.banner::after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: -1;
 }

@@ -1,14 +1,14 @@
-.dropdown:hover>.dropdown-menu{
+.dropdown:hover > .dropdown-menu {
   display: block;
 }
 
 .navbar {
-  /* background-color: rgb(18, 8, 82); */
-  background-image: url(../../assets/images/menu/menu.jpg);
+  background-color: #fff;
+  /* background-image: url(../../assets/images/menu/menu.jpg);
   background-position: center;
   background-size: cover;
   opacity: 0.9;
-  color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0); */
 }
 .navbar img {
   height: 40px;
@@ -25,7 +25,6 @@
   font-size: 1.2em;
   text-transform: uppercase;
   color: #ffd500;
-  
 }
 .dropdown-menu li a:hover {
   background-color: aquamarine;
@@ -45,7 +44,10 @@
   background-image: url(../../assets//images//menu/menu.jpg);
   background-position: center;
   background-size: cover;
-  
+}
+
+input {
+  margin-bottom: 0 !important;
 }
 @media only screen and (min-width: 992px) {
   .dropdown:hover .dropdown-menu {

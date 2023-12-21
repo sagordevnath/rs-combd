@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <div className="sticky-top w-100">
       <nav className="navbar navbar-expand-lg w-auto">
-        <div className="container-fluid">
+        <div className="container">
           <Link className="navbar-brand text-white" to="/home">
             <img src={logo} alt="" />
           </Link>
@@ -26,7 +26,7 @@ function Navbar() {
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item dropdown">
                 <Link
-                  className="nav-link dropdown-toggle text-light"
+                  className="nav-link dropdown-toggle"
                   href="#"
                   id="navbarDropdown"
                   role="button"
@@ -164,7 +164,7 @@ function Navbar() {
               </li>
               <li className="nav-item dropdown">
                 <Link
-                  className="nav-link dropdown-toggle text-light"
+                  className="nav-link dropdown-toggle"
                   href="#"
                   id="navbarDropdown"
                   role="button"
@@ -269,7 +269,7 @@ function Navbar() {
               </li>
               <li className="nav-item dropdown">
                 <Link
-                  className="nav-link dropdown-toggle text-light"
+                  className="nav-link dropdown-toggle"
                   href="#"
                   id="navbarDropdown"
                   role="button"
@@ -301,7 +301,7 @@ function Navbar() {
               </li>
               <li className="nav-item dropdown">
                 <Link
-                  className="nav-link dropdown-toggle text-light"
+                  className="nav-link dropdown-toggle"
                   href="#"
                   id="navbarDropdown"
                   role="button"
@@ -332,12 +332,8 @@ function Navbar() {
                 </ul>
               </li>
               <li className="nav-item">
-                <Link
-                  className="nav-link text-light"
-                  to="/aboutUs"
-                  aria-expanded="false"
-                >
-                  About US
+                <Link className="nav-link" to="/aboutUs" aria-expanded="false">
+                  About Us
                 </Link>
               </li>
             </ul>
