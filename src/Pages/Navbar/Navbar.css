@@ -24,12 +24,11 @@
   font-weight: bold;
   font-size: 1.2em;
   text-transform: uppercase;
-  color: #ffd500;
+  /* color: #ffd500; */
 }
 .dropdown-menu li a:hover {
-  background-color: aquamarine;
+  background-color: #0365c0;
   color: black;
-  font-style: italic;
 }
 .dropdown-menu li .dropdown-item {
   color: rgb(255, 255, 255);
@@ -40,10 +39,11 @@
   border: none;
   border-radius: 0;
   padding: 0.7em;
-  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  /* box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   background-image: url(../../assets//images//menu/menu.jpg);
   background-position: center;
-  background-size: cover;
+  background-size: cover; */
+  background-color: #0365c0;
 }
 
 input {

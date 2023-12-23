@@ -37,7 +37,11 @@ function Navbar() {
                 </Link>
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">
                   <ul className="menu-side">
-                    <h1 className="">What's New</h1>
+                  <li>
+                      <a className="dropdown-item" href="#">
+                        What's New
+                      </a>
+                    </li>
                     <li>
                       <Link className="dropdown-item" to="/letters">
                         Create Letters
@@ -344,7 +348,7 @@ function Navbar() {
                 placeholder="Search"
                 aria-label="Search"
               />
-              <button className="btn btn-outline-success" type="submit">
+              <button className="btn btn-outline-info" type="submit">
                 Search
               </button>
             </form>

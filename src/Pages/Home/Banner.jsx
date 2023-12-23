@@ -29,7 +29,7 @@ const Banner = () => {
               aliquam voluptatem iure. Nam autem illo dicta, iste commodi
               cupiditate consequatur delectus, optio, quia laborum ut.
             </p>
-            <button type="button" className="btn btn-outline-danger">
+            <button type="button" className="btn btn-outline-info">
               Learn More
             </button>
           </div>
