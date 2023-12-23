@@ -74,3 +74,36 @@ input, textarea{
     color: skyblue;
     box-shadow: none;
 } */
+
+.about-area {
+  padding: 70px 0 40px 0;
+  color: #000;
+  background-color: #fff;
+}
+.section-heading h2 {
+  font-size: 42px;
+  /* text-transform: uppercase; */
+  text-align: center;
+  margin-bottom: 40px;
+}
+.single-about {
+  padding: 20px;
+  border: 1px solid #000;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.single-about i {
+  font-size: 22px;
+  width: 70px;
+  height: 70px;
+  background-color: #eeeeee;
+  border-radius: 50%;
+  line-height: 70px;
+  margin-bottom: 5px;
+  border: 1px solid transparent;
+  transition: 0.3s;
+}
+.single-about i:hover {
+  background-color: transparent;
+  border: 1px solid #000;
+}

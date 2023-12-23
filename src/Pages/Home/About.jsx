@@ -1,5 +1,5 @@
 import React from "react";
-import './About.css'
+import "./About.css";
 
 const About = () => {
   return (
@@ -55,12 +55,64 @@ const About = () => {
     //         </div>
     //     </div>
     // </div>
-    <section>
-        <div className="container">
-            <div className="row">
-                <h1>Bangladesh</h1>
-            </div>
+    <section className="about-area">
+      <div className="container">
+        <div className="row">
+          <div className="section-heading">
+            <h2>About Us</h2>
+          </div>
         </div>
+        <div className="row">
+          <div className="col-md-3">
+            <div className="single-about">
+              <i class="fa-solid fa-house-signal"></i>
+              <h3>Our Offices</h3>
+            </div>
+          </div>
+          <div className="col-md-3">
+            <div className="single-about">
+              <i class="fa-solid fa-house-signal"></i>
+              <h3>Our Offices</h3>
+            </div>
+          </div>
+          <div className="col-md-3">
+            <div className="single-about">
+              <i class="fa-solid fa-house-signal"></i>
+              <h3>Our Offices</h3>
+            </div>
+          </div>
+          <div className="col-md-3">
+            <div className="single-about">
+              <i class="fa-solid fa-house-signal"></i>
+              <h3>Our Offices</h3>
+            </div>
+          </div>
+          <div className="col-md-3">
+            <div className="single-about">
+              <i class="fa-solid fa-house-signal"></i>
+              <h3>Our Offices</h3>
+            </div>
+          </div>
+          <div className="col-md-3">
+            <div className="single-about">
+              <i class="fa-solid fa-house-signal"></i>
+              <h3>Our Offices</h3>
+            </div>
+          </div>
+          <div className="col-md-3">
+            <div className="single-about">
+              <i class="fa-solid fa-house-signal"></i>
+              <h3>Our Offices</h3>
+            </div>
+          </div>
+          <div className="col-md-3">
+            <div className="single-about">
+              <i class="fa-solid fa-house-signal"></i>
+              <h3>Our Offices</h3>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
   );
 };
