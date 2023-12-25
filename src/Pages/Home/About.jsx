@@ -1,4 +1,3 @@
-import React from "react";
 import "./About.css";
 
 const About = () => {
@@ -58,57 +57,33 @@ const About = () => {
     <section className="about-area">
       <div className="container">
         <div className="row">
-          <div className="section-heading">
-            <h2>About Us</h2>
+          <div className="col-md-4">
+            <div className="desktop-img"></div>
           </div>
-        </div>
-        <div className="row">
-          <div className="col-md-3">
-            <div className="single-about">
-              <i class="fa-solid fa-house-signal"></i>
-              <h3>Our Offices</h3>
-            </div>
-          </div>
-          <div className="col-md-3">
-            <div className="single-about">
-              <i class="fa-solid fa-house-signal"></i>
-              <h3>Our Offices</h3>
-            </div>
-          </div>
-          <div className="col-md-3">
-            <div className="single-about">
-              <i class="fa-solid fa-house-signal"></i>
-              <h3>Our Offices</h3>
-            </div>
-          </div>
-          <div className="col-md-3">
-            <div className="single-about">
-              <i class="fa-solid fa-house-signal"></i>
-              <h3>Our Offices</h3>
-            </div>
-          </div>
-          <div className="col-md-3">
-            <div className="single-about">
-              <i class="fa-solid fa-house-signal"></i>
-              <h3>Our Offices</h3>
-            </div>
-          </div>
-          <div className="col-md-3">
-            <div className="single-about">
-              <i class="fa-solid fa-house-signal"></i>
-              <h3>Our Offices</h3>
-            </div>
-          </div>
-          <div className="col-md-3">
-            <div className="single-about">
-              <i class="fa-solid fa-house-signal"></i>
-              <h3>Our Offices</h3>
-            </div>
-          </div>
-          <div className="col-md-3">
-            <div className="single-about">
-              <i class="fa-solid fa-house-signal"></i>
-              <h3>Our Offices</h3>
+          <div className="col-md-8">
+            <div className="about-text">
+              <h6>SERVING OUR VALUED CLIENTS FOR MORE THAN 40 YEARS</h6>
+              <h3>RS Communication, Your Trusted Advisor</h3>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Eligendi itaque adipisci quaerat, molestiae corporis quo, eos
+                iure dolor laudantium doloremque incidunt aspernatur
+                voluptatibus neque cum. Illo consequatur mollitia asperiores
+                similique explicabo quae laborum veniam. Cupiditate officiis
+                aliquam exercitationem commodi! Laudantium odit incidunt eaque
+                adipisci, a quisquam quo quia ullam quos excepturi facilis
+                debitis itaque dolorum assumenda optio magnam consequuntur vero
+                rem explicabo saepe fugit nemo beatae quas! Excepturi, quidem
+                ratione?
+              </p>
+              <ul>
+                <li>
+                  <a href="#">Upcoming Events</a>
+                </li>
+                <li>
+                  <a href="#">Our Locations</a>
+                </li>
+              </ul>
             </div>
           </div>
         </div>

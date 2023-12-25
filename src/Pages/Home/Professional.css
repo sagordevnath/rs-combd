@@ -1,0 +1,52 @@
+.professional-area {
+  padding: 70px 0 40px 0;
+  background-color: #f5f5f5;
+}
+.professional-text {
+  color: #000;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.single-professional {
+  background-image: url(desktop.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  padding: 50px 30px;
+  margin-bottom: 30px;
+  position: relative;
+  z-index: 1;
+}
+.single-professional::after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: -1;
+}
+.single-professional h6 {
+  letter-spacing: 1px;
+  position: relative;
+  margin-bottom: 55px;
+}
+.single-professional h6::before {
+  position: absolute;
+  content: "";
+  width: 60px;
+  height: 1.5px;
+  background-color: #fff;
+  bottom: -30px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.single-professional a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #000;
+  background-color: #fff;
+  padding: 10px 25px;
+}
