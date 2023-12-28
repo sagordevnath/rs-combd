@@ -1,0 +1,27 @@
+.serve-area {
+  padding: 70px 0;
+  background-image: url(../../assets/images/menu/menu.jpeg);
+  background-position: inherit;
+  background-size: cover;
+  position: relative;
+  z-index: 1;
+}
+.serve-area::before {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: -1;
+}
+.serve-text {
+  color: #fff !important;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.single-serve img {
+  width: 100%;
+  height: 100px;
+}
