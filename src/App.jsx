@@ -36,7 +36,6 @@ import SubstantiveRevenue from "./Pages/W_Papers/SubstantiveRevenue/SubstantiveR
 import SubstantivePpe from "./Pages/W_Papers/SubstantivePpe/SubstantivePpe";
 import SubstantiveInventories from "./Pages/W_Papers/SubstantiveInventories/SubstantiveInventories";
 import SubstantiveBorrowings from "./Pages/W_Papers/SubstantiveBorrowings/SubstantiveBorrowings";
-import About from "./Pages/Home/About";
 import FinancialStatements from "./Pages/FinancialStatements/FinancialStatements";
 import Report from "./Pages/FinancialStatements/Report";
 import Sfp from "./Pages/FinancialStatements/Sfp";
@@ -49,6 +48,7 @@ import Ppe from "./Pages/FinancialStatements/Ppe";
 import Cover from "./Pages/FinancialStatements/Cover";
 import Login from "./Pages/Profile/Login";
 import Register from "./Pages/Profile/Register";
+import About from "./Pages/About/About";
 
 function App() {
   return (
@@ -61,7 +61,7 @@ function App() {
         <Route path="/blog" element={<Blog />}></Route>
         <Route path="/industries" element={<Industries />}></Route>
         <Route path="/services" element={<Services />}></Route>
-        <Route path="/aboutUs" element={<About />}></Route>
+        <Route path="/aboutUs" element={<About/>}></Route>
         <Route path="/login" element={<Login />}></Route>
         <Route path="/register" element={<Register />}></Route>
 

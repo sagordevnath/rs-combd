@@ -1,6 +1,6 @@
-import "./About.css";
+import "./AboutOne.css";
 
-const About = () => {
+const AboutOne = () => {
   return (
     // <div className="section-padding">
     //     <div className="container">
@@ -92,4 +92,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default AboutOne;

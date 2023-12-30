@@ -1,14 +1,13 @@
 import React from 'react';
 import "./About.css";
+import Banner from '../Home/Banner';
+import AboutOne from '../Home/AboutOne';
 
 const About = () => {
     return (
-        <div className='about-area'>
-            <div className="container">
-                <div className="row">
-
-                </div>
-            </div>
+        <div>
+            <Banner/>
+            <AboutOne/>
         </div>
     );
 };

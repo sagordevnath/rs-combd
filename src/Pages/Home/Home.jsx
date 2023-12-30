@@ -1,5 +1,5 @@
 // import React from 'react';
-import About from "./About";
+import AboutOne from "./AboutOne";
 import Banner from "./Banner";
 import Blog from "./Blog";
 import Carrer from "./Carrer";
@@ -16,7 +16,7 @@ const Home = () => {
   return (
     <div className="h-100 w-100">
       <Banner />
-      <About />
+      <AboutOne />
       <Professional />
       <Serve />
       <Carrer />

@@ -16,10 +16,10 @@
 
 }
 .border-btm{
-    /* border-bottom: 1px solid #ffffff !important; */
+    border-bottom: 1px solid #000 !important;
 }
 .border-btm-2{
-    /* border-bottom: 2px solid #ffffff !important; */
+    border-bottom: 2px solid #000 !important;
 }
 .border-btm-3{
     border-bottom: 3px solid #ffffff;
