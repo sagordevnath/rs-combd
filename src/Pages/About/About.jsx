@@ -4,6 +4,7 @@ import AboutBanner from './AboutBanner';
 import AboutTwo from './AboutTwo';
 import MissionVision from './MissionVision';
 import Testimonial from '../Home/Testimonial';
+import MoreAbout from './MoreAboutTwo';
 
 const About = () => {
     return (
@@ -11,6 +12,7 @@ const About = () => {
             <AboutBanner/>
             <AboutTwo/>
             <MissionVision/>
+            <MoreAbout/>
             <Testimonial/>
         </div>
     );
