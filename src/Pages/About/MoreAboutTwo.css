@@ -1,7 +1,23 @@
-
-  
-  
-  
-  
-  
-  
+.more-about-area-two {
+  padding: 70px 0;
+  background-color: #f5f5f5;
+}
+.more-about-area-two-heading {
+  margin-bottom: 40px;
+}
+.tab-area ul {
+  background-color: #fff;
+}
+.tab-area ul li {
+  text-align: center;
+  width: 25%;
+  border: 1px solid #000;
+}
+.tab-area ul .nav-link {
+  width: 100%;
+  text-align: center;
+  border-radius: 0 !important;
+}
+.tab-area-img img {
+  height: 280px;
+}
