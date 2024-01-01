@@ -1,13 +1,17 @@
 import React from 'react';
 import "./About.css";
-import Banner from '../Home/Banner';
-import AboutOne from '../Home/AboutOne';
+import AboutBanner from './AboutBanner';
+import AboutTwo from './AboutTwo';
+import MissionVision from './MissionVision';
+import Testimonial from '../Home/Testimonial';
 
 const About = () => {
     return (
         <div>
-            <Banner/>
-            <AboutOne/>
+            <AboutBanner/>
+            <AboutTwo/>
+            <MissionVision/>
+            <Testimonial/>
         </div>
     );
 };
