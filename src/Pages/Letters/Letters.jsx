@@ -11,7 +11,7 @@ const Letters = () => {
       <div className="row">
         <div className="col-lg-3">
           <div className="letter-nav">
-            <ul className="bg-info bg-gradient text-start vh-100 text-start">
+            <ul className="bg-info bg-gradient text-start vh-100 text-start sticky-top">
               <li>
                 <NavLink to="/letters/input-field">Input Field</NavLink>
               </li>

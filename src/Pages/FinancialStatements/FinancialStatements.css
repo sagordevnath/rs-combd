@@ -1,0 +1,24 @@
+.financial-main {
+  background-color: #54a1e9;
+  overflow: hidden;
+}
+.financial-nav {
+  background-color: #fff;
+  margin: 40px 15px;
+  padding: 30px 30px;
+}
+.financial-nav ul {
+  height: 335px;
+}
+.financial-nav ul li {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+.financial-nav ul li a {
+  text-decoration: none;
+  color: #137cdf !important;
+  font-size: 18px !important;
+}
+.financial-nav ul li a:hover {
+  color: black !important;
+}

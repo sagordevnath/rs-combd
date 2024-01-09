@@ -27,7 +27,7 @@
   /* color: #ffd500; */
 }
 .dropdown-menu li a:hover {
-  background-color: #0365c0;
+  background-color: #54a1e9;
   color: black;
 }
 .dropdown-menu li .dropdown-item {
@@ -43,7 +43,7 @@
   background-image: url(../../assets//images//menu/menu.jpg);
   background-position: center;
   background-size: cover; */
-  background-color: #0365c0;
+  background-color: #54a1e9;
 }
 
 input {

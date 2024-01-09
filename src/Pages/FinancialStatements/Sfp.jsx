@@ -1,4 +1,5 @@
 import React from "react";
+import "./Sfp.css";
 
 const Sfp = () => {
   return (
@@ -64,7 +65,10 @@ const Sfp = () => {
           <div className="single-note">
             <div className="row mb-2">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Property, plant and equipment</option>
                   <option value="1">Right-of-use asset</option>
                   <option value="2">Goodwill</option>
@@ -73,7 +77,9 @@ const Sfp = () => {
                   <option value="5">Interests in joint ventures</option>
                   <option value="6">Investment in associates</option>
                   <option value="7">Investments in financial assets</option>
-                  <option value="8">Investments in financial assets with related parties</option>
+                  <option value="8">
+                    Investments in financial assets with related parties
+                  </option>
                   <option value="9">Derivative financial instruments</option>
                   <option value="10">Finance lease receivables</option>
                   <option value="11">Contract assets</option>
@@ -92,9 +98,12 @@ const Sfp = () => {
                 <p className="text-end">2,938,477</p>
               </div>
             </div>
-            <div className="row">
+            <div className="row align-items-center">
               <div className="col-5 offset-1 border-btm d-flex justify-content-between">
-              <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Intangible assets</option>
                   <option value="1">Property, plant and equipment</option>
                   <option value="2">Right-of-use asset</option>
@@ -103,7 +112,9 @@ const Sfp = () => {
                   <option value="5">Interests in joint ventures</option>
                   <option value="6">Investment in associates</option>
                   <option value="7">Investments in financial assets</option>
-                  <option value="8">Investments in financial assets with related parties</option>
+                  <option value="8">
+                    Investments in financial assets with related parties
+                  </option>
                   <option value="9">Derivative financial instruments</option>
                   <option value="10">Finance lease receivables</option>
                   <option value="11">Contract assets</option>
@@ -113,13 +124,15 @@ const Sfp = () => {
                 <p>5</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">314,923</p>
+                <p className="text-end border-btm mb-negative">314,923</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm margin-btm-2">314,923</p>
+                <p className="text-end border-btm margin-btm-2 mb-negative">
+                  314,923
+                </p>
               </div>
               <div className="col-2 d-flex flex-row-reverse border-btm">
-                <p className="text-end">2,938,477</p>
+                <p className="text-end mb-positive">2,938,477</p>
               </div>
             </div>
             <div className="row">
@@ -150,7 +163,10 @@ const Sfp = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-              <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Inventories</option>
                   <option value="1">Contract assets</option>
                   <option value="2">Right to returned goods assets</option>
@@ -178,7 +194,10 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Trade and other receivables</option>
                   <option value="1">Inventories</option>
                   <option value="2">Contract assets</option>
@@ -209,7 +228,10 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Receivables from related parties</option>
                   <option value="1">Inventories</option>
                   <option value="2">Contract assets</option>
@@ -240,7 +262,10 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Finance lease receivables</option>
                   <option value="1">Inventories</option>
                   <option value="2">Contract assets</option>
@@ -271,7 +296,10 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Advance income tax</option>
                   <option value="1">Inventories</option>
                   <option value="2">Contract assets</option>
@@ -299,7 +327,10 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 border-btm d-flex justify-content-between">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Cash and cash equivalents</option>
                   <option value="1">Inventories</option>
                   <option value="2">Contract assets</option>
@@ -377,7 +408,10 @@ const Sfp = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Share capital</option>
                   <option value="1">Calls-in-arrear</option>
                   <option value="2">Retained earnings</option>
@@ -401,7 +435,10 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Calls-in-arrear</option>
                   <option value="1">Share capital</option>
                   <option value="2">Retained earnings</option>
@@ -425,7 +462,10 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Share money deposit</option>
                   <option value="1">Share capital</option>
                   <option value="2">Retained earnings</option>
@@ -449,7 +489,10 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 border-btm-2 d-flex justify-content-between">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Retained earnings</option>
                   <option value="1">Share capital</option>
                   <option value="2">Calls-in-arrear</option>
@@ -495,9 +538,14 @@ const Sfp = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Borrowings from bank</option>
-                  <option value="1">Financial liabilities with related parties</option>
+                  <option value="1">
+                    Financial liabilities with related parties
+                  </option>
                   <option value="2">Lease liabilities</option>
                   <option value="3">Contract liabilities</option>
                   <option value="4">Retirement benefit obligations</option>
@@ -523,9 +571,14 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Deferred tax liabilities</option>
-                  <option value="1">Financial liabilities with related parties</option>
+                  <option value="1">
+                    Financial liabilities with related parties
+                  </option>
                   <option value="2">Lease liabilities</option>
                   <option value="3">Contract liabilities</option>
                   <option value="4">Retirement benefit obligations</option>
@@ -551,8 +604,13 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between border-btm">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
-                  <option selected>Financial liabilities with related parties</option>
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
+                  <option selected>
+                    Financial liabilities with related parties
+                  </option>
                   <option value="1">Deferred tax liabilities</option>
                   <option value="2">Lease liabilities</option>
                   <option value="3">Contract liabilities</option>
@@ -604,12 +662,19 @@ const Sfp = () => {
           <div className="single-note">
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
-                  <option selected>Borrowings from bank - current portion</option>
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
+                  <option selected>
+                    Borrowings from bank - current portion
+                  </option>
                   <option value="1">Short-term financial liabilities</option>
                   <option value="2">Trade and other payables</option>
                   <option value="3">Advance received from customers</option>
-                  <option value="4">Financial liabilities with related parties</option>
+                  <option value="4">
+                    Financial liabilities with related parties
+                  </option>
                   <option value="5">Current tax payable</option>
                   <option value="6">Provision for expense</option>
                 </select>
@@ -630,12 +695,19 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Trade and other payables</option>
                   <option value="1">Short-term financial liabilities</option>
-                  <option value="2">Borrowings from bank - current portion</option>
+                  <option value="2">
+                    Borrowings from bank - current portion
+                  </option>
                   <option value="3">Advance received from customers</option>
-                  <option value="4">Financial liabilities with related parties</option>
+                  <option value="4">
+                    Financial liabilities with related parties
+                  </option>
                   <option value="5">Current tax payable</option>
                   <option value="6">Provision for expense</option>
                 </select>
@@ -656,13 +728,20 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Current tax payable</option>
                   <option value="1">Short-term financial liabilities</option>
                   <option value="2">Trade and other payables</option>
                   <option value="3">Advance received from customers</option>
-                  <option value="4">Financial liabilities with related parties</option>
-                  <option value="5">Borrowings from bank - current portion</option>
+                  <option value="4">
+                    Financial liabilities with related parties
+                  </option>
+                  <option value="5">
+                    Borrowings from bank - current portion
+                  </option>
                   <option value="6">Provision for expense</option>
                 </select>
                 <p>21</p>
@@ -679,14 +758,21 @@ const Sfp = () => {
             </div>
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between border-btm">
-                <select className="form-select bg-transparent text-white border-none" aria-label="Default select example">
+                <select
+                  className="form-select bg-transparent text-white border-none"
+                  aria-label="Default select example"
+                >
                   <option selected>Provision for expense</option>
                   <option value="1">Short-term financial liabilities</option>
                   <option value="2">Trade and other payables</option>
                   <option value="3">Advance received from customers</option>
-                  <option value="4">Financial liabilities with related parties</option>
+                  <option value="4">
+                    Financial liabilities with related parties
+                  </option>
                   <option value="5">Current tax payable</option>
-                  <option value="6">Borrowings from bank - current portion</option>
+                  <option value="6">
+                    Borrowings from bank - current portion
+                  </option>
                 </select>
                 <p>22</p>
               </div>
@@ -755,7 +841,6 @@ const Sfp = () => {
         </div>
       </div>
     </div>
-
   );
 };
 
