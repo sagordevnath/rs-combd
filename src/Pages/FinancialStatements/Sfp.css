@@ -1,6 +1,25 @@
 .mb-positive {
-  margin-bottom: 8px;
+  margin-bottom: 8px !important;
 }
 .mb-negative {
   margin-bottom: -8px !important;
+}
+.finalcial-position-page p {
+  margin-bottom: 0 !important;
+}
+/* .finalcial-position-page select {
+  margin-bottom: 5px;
+} */
+.finalcial-position-page .form-select {
+  padding: 0;
+}
+.p-6 {
+  padding-bottom: 6px !important;
+}
+.finalcial-position-page input {
+  border: 0.5px solid #ccc;
+}
+.finalcial-position-page .form-select:focus {
+  border-color: none;
+  box-shadow: none;
 }

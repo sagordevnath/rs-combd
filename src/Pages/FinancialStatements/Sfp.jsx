@@ -3,7 +3,7 @@ import "./Sfp.css";
 
 const Sfp = () => {
   return (
-    <div>
+    <div className="finalcial-position-page">
       <div className="w-auto">
         <div className="note-header pt-3">
           <div className="container">
@@ -66,7 +66,7 @@ const Sfp = () => {
             <div className="row mb-2">
               <div className="col-5 offset-1 d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Property, plant and equipment</option>
@@ -101,7 +101,7 @@ const Sfp = () => {
             <div className="row align-items-center">
               <div className="col-5 offset-1 border-btm d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Intangible assets</option>
@@ -164,7 +164,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Inventories</option>
@@ -195,7 +195,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Trade and other receivables</option>
@@ -229,7 +229,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Receivables from related parties</option>
@@ -263,7 +263,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Finance lease receivables</option>
@@ -297,7 +297,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Advance income tax</option>
@@ -328,7 +328,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 border-btm d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Cash and cash equivalents</option>
@@ -347,14 +347,14 @@ const Sfp = () => {
                 <p>11</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">(314,923)</p>
+                <p className="text-end border-btm mb-negative">(314,923)</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm">(314,923)</p>
+                <p className="text-end border-btm ">(314,923)</p>
               </div>
               <div className="col-2 d-flex flex-row-reverse border-btm">
                 <input
-                  className="input input-group input-group-sm mb-1"
+                  className="input input-group input-group-sm mb-1 mb-negative"
                   type="number"
                 />
               </div>
@@ -409,7 +409,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Share capital</option>
@@ -436,7 +436,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Calls-in-arrear</option>
@@ -463,7 +463,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Share money deposit</option>
@@ -490,7 +490,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 border-btm-2 d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Retained earnings</option>
@@ -512,17 +512,17 @@ const Sfp = () => {
               </div>
             </div>
             <div className="row border-btm-2">
-              <div className="col-5 offset-1 border-btm-2">
+              <div className="col-5 offset-1">
                 <h5>Total equity</h5>
               </div>
               <div className="col-2">
-                <p className="text-end fw-bold border-btm-2">7,576,078</p>
+                <p className="text-end fw-bold">7,576,078</p>
               </div>
               <div className="col-2">
-                <p className="text-end fw-bold border-btm-2">2,623,554</p>
+                <p className="text-end fw-bold">2,623,554</p>
               </div>
               <div className="col-2">
-                <p className="text-end fw-bold border-btm-2">2,623,554</p>
+                <p className="text-end fw-bold">2,623,554</p>
               </div>
             </div>
           </div>
@@ -539,7 +539,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Borrowings from bank</option>
@@ -572,7 +572,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Deferred tax liabilities</option>
@@ -605,7 +605,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between border-btm">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>
@@ -640,13 +640,13 @@ const Sfp = () => {
                 <h5>Total non-current liabilities</h5>
               </div>
               <div className="col-2">
-                <p className="text-end fw-bold border-btm-2">7,576,078</p>
+                <p className="text-end fw-bold border-btm-2 p-6">7,576,078</p>
               </div>
               <div className="col-2">
-                <p className="text-end fw-bold border-btm-2">2,623,554</p>
+                <p className="text-end fw-bold border-btm-2 p-6">2,623,554</p>
               </div>
               <div className="col-2">
-                <p className="text-end fw-bold border-btm-2">2,623,554</p>
+                <p className="text-end fw-bold border-btm-2 p-6">2,623,554</p>
               </div>
             </div>
           </div>
@@ -663,7 +663,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>
@@ -696,7 +696,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Trade and other payables</option>
@@ -729,7 +729,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Current tax payable</option>
@@ -759,7 +759,7 @@ const Sfp = () => {
             <div className="row">
               <div className="col-5 offset-1 d-flex justify-content-between border-btm">
                 <select
-                  className="form-select bg-transparent text-white border-none"
+                  className="form-select bg-transparent"
                   aria-label="Default select example"
                 >
                   <option selected>Provision for expense</option>
@@ -794,13 +794,13 @@ const Sfp = () => {
                 <h5>Total current liabilities</h5>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm-2 fw-bold">7,576,078</p>
+                <p className="text-end border-btm-2 fw-bold p-6">7,576,078</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm-2 fw-bold">2,623,554</p>
+                <p className="text-end border-btm-2 fw-bold p-6">2,623,554</p>
               </div>
               <div className="col-2">
-                <p className="text-end border-btm-2 fw-bold">2,623,554</p>
+                <p className="text-end border-btm-2 fw-bold p-6">2,623,554</p>
               </div>
             </div>
             <div className="row">
